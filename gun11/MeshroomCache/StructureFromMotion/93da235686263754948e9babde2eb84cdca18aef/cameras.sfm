@@ -1,0 +1,242 @@
+{
+    "version": [
+        "1",
+        "2",
+        "4"
+    ],
+    "featuresFolders": [
+        "..\\..\\FeatureExtraction\\3b1ce6643089b8a3ce10f9c6495c557ddc3fbd8d"
+    ],
+    "matchesFolders": [
+        "..\\..\\FeatureMatching\\f42e41021f514aa8c8be86664c5360b9b5db83d9"
+    ],
+    "views": [
+        {
+            "viewId": "1080664269",
+            "poseId": "1080664269",
+            "frameId": "88",
+            "intrinsicId": "3293772986",
+            "path": "D:\/ly\/stage3\/gun11\/output\/output_0088.jpeg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ImageDescription": "Lavc61.10.100",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1515471339",
+            "poseId": "1515471339",
+            "frameId": "109",
+            "intrinsicId": "3293772986",
+            "resectionId": "2",
+            "path": "D:\/ly\/stage3\/gun11\/output\/output_0109.jpeg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ImageDescription": "Lavc61.10.100",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1941149670",
+            "poseId": "1941149670",
+            "frameId": "112",
+            "intrinsicId": "3293772986",
+            "resectionId": "1",
+            "path": "D:\/ly\/stage3\/gun11\/output\/output_0112.jpeg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ImageDescription": "Lavc61.10.100",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1956052955",
+            "poseId": "1956052955",
+            "frameId": "85",
+            "intrinsicId": "3293772986",
+            "resectionId": "0",
+            "path": "D:\/ly\/stage3\/gun11\/output\/output_0085.jpeg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ImageDescription": "Lavc61.10.100",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1962826856",
+            "poseId": "1962826856",
+            "frameId": "86",
+            "intrinsicId": "3293772986",
+            "path": "D:\/ly\/stage3\/gun11\/output\/output_0086.jpeg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ImageDescription": "Lavc61.10.100",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        }
+    ],
+    "intrinsics": [
+        {
+            "intrinsicId": "3293772986",
+            "width": "1920",
+            "height": "1080",
+            "sensorWidth": "36",
+            "sensorHeight": "20.25",
+            "serialNumber": "D:\/ly\/stage3\/gun11\/output",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "initialFocalLength": "-1",
+            "focalLength": "32.291465402995783",
+            "pixelRatio": "1",
+            "pixelRatioLocked": "true",
+            "principalPoint": [
+                "-35.564416368318774",
+                "-54"
+            ],
+            "distortionInitializationMode": "none",
+            "distortionParams": [
+                "0.021699438176258384",
+                "0.12391871502590759",
+                "-0.99846046809151967"
+            ],
+            "undistortionOffset": [
+                "0",
+                "0"
+            ],
+            "undistortionParams": "",
+            "locked": "false"
+        }
+    ],
+    "poses": [
+        {
+            "poseId": "1080664269",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99982381955209565",
+                        "0.018370617848610774",
+                        "-0.0038536030048094165",
+                        "-0.017901586254338474",
+                        "0.99497057476254058",
+                        "0.098555002746071652",
+                        "0.0056447378891187521",
+                        "-0.098468653674964074",
+                        "0.99512414360098966"
+                    ],
+                    "center": [
+                        "-0.024633470905594857",
+                        "-0.18784472817285014",
+                        "0.22191047645534248"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1515471339",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.93018823256547634",
+                        "0.030924821627006827",
+                        "-0.36577794822002724",
+                        "0.18936832006657961",
+                        "0.81319377861851461",
+                        "0.5503231030688277",
+                        "0.3144669956479958",
+                        "-0.5811708301553683",
+                        "0.75056710214653255"
+                    ],
+                    "center": [
+                        "0.48118193813425048",
+                        "-1.0462675787772391",
+                        "0.52067650547275246"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1941149670",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99966765800108581",
+                        "0.025518625294159849",
+                        "0.0036569536120156475",
+                        "-0.022729248176022943",
+                        "0.80554580462594483",
+                        "0.59209740577618819",
+                        "0.012163668195775763",
+                        "-0.59198374674701626",
+                        "0.80585810709044037"
+                    ],
+                    "center": [
+                        "-0.19271042267193322",
+                        "-0.98759911822086788",
+                        "0.53897988270960329"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1956052955",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99768253614310787",
+                        "0.04349306384098052",
+                        "0.052325046323732458",
+                        "-0.066000502003214084",
+                        "0.80552848235898722",
+                        "0.58886993287461242",
+                        "-0.016537557569970478",
+                        "-0.59095872741347277",
+                        "0.80653226326258565"
+                    ],
+                    "center": [
+                        "-0.10074215817607068",
+                        "-0.93352229847180013",
+                        "0.62016117473893584"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1962826856",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99925074600742358",
+                        "-0.026222656577488755",
+                        "0.028466100639645706",
+                        "0.0081648576395610198",
+                        "0.86176732639970721",
+                        "0.50723802129732565",
+                        "-0.037832283876777173",
+                        "-0.50662554952540606",
+                        "0.8613357480476167"
+                    ],
+                    "center": [
+                        "-0.11448162314341448",
+                        "-0.80081297808728769",
+                        "0.52319723385041716"
+                    ]
+                },
+                "locked": "0"
+            }
+        }
+    ]
+}

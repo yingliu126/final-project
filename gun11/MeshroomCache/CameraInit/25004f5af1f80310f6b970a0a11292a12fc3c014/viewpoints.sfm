@@ -1,0 +1,98 @@
+{
+    "version": [
+        1,
+        2,
+        2
+    ],
+    "views": [
+        {
+            "viewId": 1080664269,
+            "poseId": 1080664269,
+            "path": "D:/ly/stage3/gun11/output/output_0088.jpeg",
+            "intrinsicId": 3293772986,
+            "metadata": {
+                "ImageDescription": "Lavc61.10.100",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 1515471339,
+            "poseId": 1515471339,
+            "path": "D:/ly/stage3/gun11/output/output_0109.jpeg",
+            "intrinsicId": 3293772986,
+            "metadata": {
+                "ImageDescription": "Lavc61.10.100",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 1941149670,
+            "poseId": 1941149670,
+            "path": "D:/ly/stage3/gun11/output/output_0112.jpeg",
+            "intrinsicId": 3293772986,
+            "metadata": {
+                "ImageDescription": "Lavc61.10.100",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 1956052955,
+            "poseId": 1956052955,
+            "path": "D:/ly/stage3/gun11/output/output_0085.jpeg",
+            "intrinsicId": 3293772986,
+            "metadata": {
+                "ImageDescription": "Lavc61.10.100",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 1962826856,
+            "poseId": 1962826856,
+            "path": "D:/ly/stage3/gun11/output/output_0086.jpeg",
+            "intrinsicId": 3293772986,
+            "metadata": {
+                "ImageDescription": "Lavc61.10.100",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        }
+    ],
+    "intrinsics": [
+        {
+            "intrinsicId": 3293772986,
+            "initialFocalLength": -1.0,
+            "focalLength": 43.45584412271571,
+            "pixelRatio": 1.0,
+            "pixelRatioLocked": true,
+            "type": "radial3",
+            "width": 1920,
+            "height": 1080,
+            "sensorWidth": 36.0,
+            "sensorHeight": 20.25,
+            "serialNumber": "D:/ly/stage3/gun11/output",
+            "principalPoint": [
+                0.0,
+                0.0
+            ],
+            "initializationMode": "unknown",
+            "distortionInitializationMode": "none",
+            "distortionParams": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "undistortionOffset": [
+                0.0,
+                0.0
+            ],
+            "undistortionParams": [],
+            "locked": false
+        }
+    ],
+    "featureFolder": "",
+    "matchingFolder": ""
+}

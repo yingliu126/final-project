@@ -1,0 +1,111 @@
+{
+    "version": [
+        "1",
+        "2",
+        "4"
+    ],
+    "views": [
+        {
+            "viewId": "446678479",
+            "poseId": "446678479",
+            "frameId": "6",
+            "intrinsicId": "3293772986",
+            "path": "D:\/ly\/stage3\/gun11\/output\/output_0006.jpeg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ImageDescription": "Lavc61.10.100",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "462450697",
+            "poseId": "462450697",
+            "frameId": "9",
+            "intrinsicId": "3293772986",
+            "path": "D:\/ly\/stage3\/gun11\/output\/output_0009.jpeg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ImageDescription": "Lavc61.10.100",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "468034491",
+            "poseId": "468034491",
+            "frameId": "8",
+            "intrinsicId": "3293772986",
+            "path": "D:\/ly\/stage3\/gun11\/output\/output_0008.jpeg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ImageDescription": "Lavc61.10.100",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1229031559",
+            "poseId": "1229031559",
+            "frameId": "10",
+            "intrinsicId": "3293772986",
+            "path": "D:\/ly\/stage3\/gun11\/output\/output_0010.jpeg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ImageDescription": "Lavc61.10.100",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1253953133",
+            "poseId": "1253953133",
+            "frameId": "11",
+            "intrinsicId": "3293772986",
+            "path": "D:\/ly\/stage3\/gun11\/output\/output_0011.jpeg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ImageDescription": "Lavc61.10.100",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        }
+    ],
+    "intrinsics": [
+        {
+            "intrinsicId": "3293772986",
+            "width": "1920",
+            "height": "1080",
+            "sensorWidth": "36",
+            "sensorHeight": "20.25",
+            "serialNumber": "D:\/ly\/stage3\/gun11\/output",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "initialFocalLength": "-1",
+            "focalLength": "43.45584412271571",
+            "pixelRatio": "1",
+            "pixelRatioLocked": "true",
+            "principalPoint": [
+                "0",
+                "0"
+            ],
+            "distortionInitializationMode": "none",
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "undistortionOffset": [
+                "0",
+                "0"
+            ],
+            "undistortionParams": "",
+            "locked": "false"
+        }
+    ]
+}

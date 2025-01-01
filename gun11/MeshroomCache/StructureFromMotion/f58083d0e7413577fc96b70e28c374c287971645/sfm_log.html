@@ -1,0 +1,132 @@
+<html><head>
+<link rel="stylesheet" type="text/css" href="http://jsxgraph.uni-bayreuth.de/distrib/jsxgraph.css" />
+<link rel="stylesheet" type="text/css" href="http://imagine.enpc.fr/~moulonp/style.css" /><script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jsxgraph/0.93/jsxgraphcore.js"></script>
+<title>[log] Sequential SfM reconstruction</title>
+</head>
+<h1>[log] Sequential SfM reconstruction</h1>
+<hr>Dataset info:Views count: 43<br><h3>Essential Matrix.</h3>
+
+<b>Robust Essential matrix:</b><br>-> View I:<br>id: 402711009<br>image path: D:/ly/stage3/gun11/output png/output_0139.png<br>-> View J:<br>id: 1245772373<br>image path: D:/ly/stage3/gun11/output png/output_0129.png<br><br>- Threshold: 22.0422<br>- Resection status: OK<br>- # points used for robust Essential matrix estimation: 239<br>- # points validated by robust estimation: 192<br>- % points validated: 0.803347<br><h3>Initial triangulation - Residual of the robust estimation.<br>Thresholded at: 22.0422</h3>
+<h3>Histogram of residuals</h3>
+
+<div id="InitialPairTriangulationKeptInfo" class="jxgbox" style="width:600px; height:300px;"></div>
+<script type="text/javascript">
+var board = JXG.JSXGraph.initBoard('InitialPairTriangulationKeptInfo', {boundingbox: [-10, 10, 10, -10], axis:true,showCopyright:false});
+board.suspendUpdate();
+var data0= [0.00000,0.54545,1.09091,1.63636,2.18182,2.72727,3.27273,3.81818,4.36364,4.90909,5.45455,6.00000,];
+var data1= [210.00000,77.00000,38.00000,23.00000,11.00000,9.00000,5.00000,4.00000,5.00000,1.00000,1.00000,0.00000,];
+board.createElement('chart', [ data0,data1], {chartStyle:'line,point',labels:[ data0,data1],strokeColor:'#0000ff',highlightStrokeColor:'#0000ff'});
+var p2 = board.create('point',[22.04219,0.00000], {fixed:true});
+var p3 = board.create('point',[22.04219,210.00000], {fixed:true});
+var li = board.create('line',[p2,p3], {strokeColor:'00ff00',strokeWidth:2});
+board.unsuspendUpdate();
+board.setBoundingBox([-1.20000,252.00000,7.20000,-42.00000]);
+</script>
+<hr><h4>Robust resection of view 223694228: <br></h4>
+
+- Image path: D:/ly/stage3/gun11/output png/output_0022.png<br>- Threshold (error max): 14.7729<br>- Resection status: OK<br>- # points used for Resection: 155<br>- # points validated by robust estimation: 105<br>- % points validated: 0.677419<br><h4>Robust resection of view 227349516: <br></h4>
+
+- Image path: D:/ly/stage3/gun11/output png/output_0023.png<br>- Threshold (error max): 9.21536<br>- Resection status: OK<br>- # points used for Resection: 196<br>- # points validated by robust estimation: 139<br>- % points validated: 0.709184<br><h4>Robust resection of view 220015964: <br></h4>
+
+- Image path: D:/ly/stage3/gun11/output png/output_0024.png<br>- Threshold (error max): 5.81519<br>- Resection status: OK<br>- # points used for Resection: 197<br>- # points validated by robust estimation: 134<br>- % points validated: 0.680203<br><h4>Robust resection of view 233225317: <br></h4>
+
+- Image path: D:/ly/stage3/gun11/output png/output_0107.png<br>- Threshold (error max): 11.9862<br>- Resection status: OK<br>- # points used for Resection: 173<br>- # points validated by robust estimation: 119<br>- % points validated: 0.687861<br><h4>Robust resection of view 410358630: <br></h4>
+
+- Image path: D:/ly/stage3/gun11/output png/output_0133.png<br>- Threshold (error max): 12.217<br>- Resection status: OK<br>- # points used for Resection: 209<br>- # points validated by robust estimation: 138<br>- % points validated: 0.660287<br><h4>Robust resection of view 417574239: <br></h4>
+
+- Image path: D:/ly/stage3/gun11/output png/output_0136.png<br>- Threshold (error max): 6.64947<br>- Resection status: OK<br>- # points used for Resection: 335<br>- # points validated by robust estimation: 225<br>- % points validated: 0.671642<br><h4>Robust resection of view 466111715: <br></h4>
+
+- Image path: D:/ly/stage3/gun11/output png/output_0137.png<br>- Threshold (error max): 7.88109<br>- Resection status: OK<br>- # points used for Resection: 355<br>- # points validated by robust estimation: 250<br>- % points validated: 0.704225<br><h4>Robust resection of view 2000851169: <br></h4>
+
+- Image path: D:/ly/stage3/gun11/output png/output_0141.png<br>- Threshold (error max): 6.03049<br>- Resection status: OK<br>- # points used for Resection: 313<br>- # points validated by robust estimation: 213<br>- % points validated: 0.680511<br><h4>Robust resection of view 220438100: <br></h4>
+
+- Image path: D:/ly/stage3/gun11/output png/output_0025.png<br>- Threshold (error max): 7.35964<br>- Resection status: OK<br>- # points used for Resection: 309<br>- # points validated by robust estimation: 208<br>- % points validated: 0.673139<br><h4>Robust resection of view 156295110: <br></h4>
+
+- Image path: D:/ly/stage3/gun11/output png/output_0104.png<br>- Threshold (error max): 8.97425<br>- Resection status: OK<br>- # points used for Resection: 369<br>- # points validated by robust estimation: 236<br>- % points validated: 0.639566<br><h4>Robust resection of view 2008743663: <br></h4>
+
+- Image path: D:/ly/stage3/gun11/output png/output_0140.png<br>- Threshold (error max): 6.61478<br>- Resection status: OK<br>- # points used for Resection: 286<br>- # points validated by robust estimation: 193<br>- % points validated: 0.674825<br><h4>Robust resection of view 2124494862: <br></h4>
+
+- Image path: D:/ly/stage3/gun11/output png/output_0019.png<br>- Threshold (error max): 6.63629<br>- Resection status: OK<br>- # points used for Resection: 359<br>- # points validated by robust estimation: 254<br>- % points validated: 0.707521<br><h4>Robust resection of view 520641448: <br></h4>
+
+- Image path: D:/ly/stage3/gun11/output png/output_0130.png<br>- Threshold (error max): 5.68012<br>- Resection status: OK<br>- # points used for Resection: 518<br>- # points validated by robust estimation: 337<br>- % points validated: 0.650579<br><h4>Robust resection of view 520543702: <br></h4>
+
+- Image path: D:/ly/stage3/gun11/output png/output_0131.png<br>- Threshold (error max): 8.31655<br>- Resection status: OK<br>- # points used for Resection: 512<br>- # points validated by robust estimation: 353<br>- % points validated: 0.689453<br><h4>Robust resection of view 232147167: <br></h4>
+
+- Image path: D:/ly/stage3/gun11/output png/output_0100.png<br>- Threshold (error max): 6.60363<br>- Resection status: OK<br>- # points used for Resection: 453<br>- # points validated by robust estimation: 286<br>- % points validated: 0.631347<br><h4>Robust resection of view 1309695247: <br></h4>
+
+- Image path: D:/ly/stage3/gun11/output png/output_0099.png<br>- Threshold (error max): 6.12502<br>- Resection status: OK<br>- # points used for Resection: 484<br>- # points validated by robust estimation: 330<br>- % points validated: 0.681818<br><h4>Robust resection of view 229389756: <br></h4>
+
+- Image path: D:/ly/stage3/gun11/output png/output_0102.png<br>- Threshold (error max): 5.34429<br>- Resection status: OK<br>- # points used for Resection: 537<br>- # points validated by robust estimation: 344<br>- % points validated: 0.640596<br><h4>Robust resection of view 2132052518: <br></h4>
+
+- Image path: D:/ly/stage3/gun11/output png/output_0145.png<br>- Threshold (error max): 11.2166<br>- Resection status: OK<br>- # points used for Resection: 335<br>- # points validated by robust estimation: 197<br>- % points validated: 0.58806<br><h4>Robust resection of view 2129678330: <br></h4>
+
+- Image path: D:/ly/stage3/gun11/output png/output_0144.png<br>- Threshold (error max): 5.97144<br>- Resection status: OK<br>- # points used for Resection: 402<br>- # points validated by robust estimation: 239<br>- % points validated: 0.594527<br><h4>Robust resection of view 977463366: <br></h4>
+
+- Image path: D:/ly/stage3/gun11/output png/output_0030.png<br>- Threshold (error max): 9.39853<br>- Resection status: OK<br>- # points used for Resection: 337<br>- # points validated by robust estimation: 185<br>- % points validated: 0.548961<br><h4>Robust resection of view 527105644: <br></h4>
+
+- Image path: D:/ly/stage3/gun11/output png/output_0132.png<br>- Threshold (error max): 5.6272<br>- Resection status: OK<br>- # points used for Resection: 640<br>- # points validated by robust estimation: 416<br>- % points validated: 0.65<br><h4>Robust resection of view 81360083: <br></h4>
+
+- Image path: D:/ly/stage3/gun11/output png/output_0026.png<br>- Threshold (error max): 6.69271<br>- Resection status: OK<br>- # points used for Resection: 508<br>- # points validated by robust estimation: 332<br>- % points validated: 0.653543<br><h4>Robust resection of view 214029867: <br></h4>
+
+- Image path: D:/ly/stage3/gun11/output png/output_0028.png<br>- Threshold (error max): 6.26925<br>- Resection status: OK<br>- # points used for Resection: 433<br>- # points validated by robust estimation: 289<br>- % points validated: 0.667436<br><h4>Robust resection of view 1614021945: <br></h4>
+
+- Image path: D:/ly/stage3/gun11/output png/output_0146.png<br>- Threshold (error max): 7.79692<br>- Resection status: OK<br>- # points used for Resection: 495<br>- # points validated by robust estimation: 344<br>- % points validated: 0.69495<br><h4>Robust resection of view 408312426: <br></h4>
+
+- Image path: D:/ly/stage3/gun11/output png/output_0134.png<br>- Threshold (error max): 5.18227<br>- Resection status: OK<br>- # points used for Resection: 570<br>- # points validated by robust estimation: 365<br>- % points validated: 0.640351<br><h4>Robust resection of view 1222112592: <br></h4>
+
+- Image path: D:/ly/stage3/gun11/output png/output_0126.png<br>- Threshold (error max): 14.6525<br>- Resection status: OK<br>- # points used for Resection: 415<br>- # points validated by robust estimation: 260<br>- % points validated: 0.626506<br><h4>Robust resection of view 230706637: <br></h4>
+
+- Image path: D:/ly/stage3/gun11/output png/output_0103.png<br>- Threshold (error max): 6.62776<br>- Resection status: OK<br>- # points used for Resection: 628<br>- # points validated by robust estimation: 436<br>- % points validated: 0.694268<br><h4>Robust resection of view 1242912901: <br></h4>
+
+- Image path: D:/ly/stage3/gun11/output png/output_0128.png<br>- Threshold (error max): 6.71579<br>- Resection status: OK<br>- # points used for Resection: 549<br>- # points validated by robust estimation: 379<br>- % points validated: 0.690346<br><h4>Robust resection of view 1035244618: <br></h4>
+
+- Image path: D:/ly/stage3/gun11/output png/output_0033.png<br>- Threshold (error max): 11.2093<br>- Resection status: OK<br>- # points used for Resection: 276<br>- # points validated by robust estimation: 75<br>- % points validated: 0.271739<br><h4>Robust resection of view 1033459250: <br></h4>
+
+- Image path: D:/ly/stage3/gun11/output png/output_0032.png<br>- Threshold (error max): 12.0518<br>- Resection status: OK<br>- # points used for Resection: 345<br>- # points validated by robust estimation: 160<br>- % points validated: 0.463768<br><h4>Robust resection of view 1318639942: <br></h4>
+
+- Image path: D:/ly/stage3/gun11/output png/output_0094.png<br>- Threshold (error max): 5.96638<br>- Resection status: OK<br>- # points used for Resection: 388<br>- # points validated by robust estimation: 251<br>- % points validated: 0.646907<br><h4>Robust resection of view 996447891: <br></h4>
+
+- Image path: D:/ly/stage3/gun11/output png/output_0088.png<br>- Threshold (error max): 18.9909<br>- Resection status: OK<br>- # points used for Resection: 364<br>- # points validated by robust estimation: 190<br>- % points validated: 0.521978<br><h4>Robust resection of view 1573027797: <br></h4>
+
+- Image path: D:/ly/stage3/gun11/output png/output_0016.png<br>- Threshold (error max): 6.03818<br>- Resection status: OK<br>- # points used for Resection: 396<br>- # points validated by robust estimation: 263<br>- % points validated: 0.664141<br><h4>Robust resection of view 1351244161: <br></h4>
+
+- Image path: D:/ly/stage3/gun11/output png/output_0090.png<br>- Threshold (error max): 10.1584<br>- Resection status: OK<br>- # points used for Resection: 381<br>- # points validated by robust estimation: 204<br>- % points validated: 0.535433<br><h4>Robust resection of view 1221813292: <br></h4>
+
+- Image path: D:/ly/stage3/gun11/output png/output_0092.png<br>- Threshold (error max): 10.5516<br>- Resection status: OK<br>- # points used for Resection: 415<br>- # points validated by robust estimation: 249<br>- % points validated: 0.6<br><h4>Robust resection of view 978679606: <br></h4>
+
+- Image path: D:/ly/stage3/gun11/output png/output_0031.png<br>- Threshold (error max): 7.61544<br>- Resection status: OK<br>- # points used for Resection: 417<br>- # points validated by robust estimation: 226<br>- % points validated: 0.541966<br><h4>Robust resection of view 1308827016: <br></h4>
+
+- Image path: D:/ly/stage3/gun11/output png/output_0095.png<br>- Threshold (error max): 8.91587<br>- Resection status: OK<br>- # points used for Resection: 468<br>- # points validated by robust estimation: 329<br>- % points validated: 0.702991<br><h4>Robust resection of view 213617893: <br></h4>
+
+- Image path: D:/ly/stage3/gun11/output png/output_0029.png<br>- Threshold (error max): 4.63185<br>- Resection status: OK<br>- # points used for Resection: 506<br>- # points validated by robust estimation: 328<br>- % points validated: 0.648221<br><h4>Robust resection of view 1341977023: <br></h4>
+
+- Image path: D:/ly/stage3/gun11/output png/output_0098.png<br>- Threshold (error max): 4.2456<br>- Resection status: OK<br>- # points used for Resection: 502<br>- # points validated by robust estimation: 336<br>- % points validated: 0.669323<br><h4>Robust resection of view 2131854708: <br></h4>
+
+- Image path: D:/ly/stage3/gun11/output png/output_0017.png<br>- Threshold (error max): 4.21883<br>- Resection status: OK<br>- # points used for Resection: 531<br>- # points validated by robust estimation: 348<br>- % points validated: 0.655367<br><h4>Robust resection of view 231347619: <br></h4>
+
+- Image path: D:/ly/stage3/gun11/output png/output_0021.png<br>- Threshold (error max): 6.01811<br>- Resection status: OK<br>- # points used for Resection: 577<br>- # points validated by robust estimation: 417<br>- % points validated: 0.722704<br><hr><h3>Structure from Motion process finished.</h3>
+Structure from Motion statistics:<br>- # input images: 43<br>- # camera calibrated: 43<br>- # poses: 43
+<br>- # landmarks: 6511<br>- elapsed time: 10.9<br>- residual RMSE: 1.37368<h2>Histogram of reprojection-residuals</h2>
+
+<div id="3DtoImageResiduals" class="jxgbox" style="width:600px; height:300px;"></div>
+<script type="text/javascript">
+var board = JXG.JSXGraph.initBoard('3DtoImageResiduals', {boundingbox: [-10, 10, 10, -10], axis:true,showCopyright:false});
+board.suspendUpdate();
+var data0= [0.00000,0.51724,1.03448,1.55172,2.06897,2.58621,3.10345,3.62069,4.13793,4.65517,5.17241,5.68966,6.20690,6.72414,7.24138,7.75862,8.27586,8.79310,9.31034,9.82759,10.34483,10.86207,11.37931,11.89655,12.41379,12.93103,13.44828,13.96552,14.48276,15.00000,];
+var data1= [7829.00000,6542.00000,4196.00000,2543.00000,1705.00000,1190.00000,848.00000,613.00000,430.00000,324.00000,239.00000,178.00000,131.00000,100.00000,71.00000,44.00000,19.00000,15.00000,7.00000,4.00000,6.00000,2.00000,1.00000,1.00000,0.00000,1.00000,2.00000,0.00000,0.00000,1.00000,];
+board.createElement('chart', [ data0,data1], {chartStyle:'line,point',labels:[ data0,data1],strokeColor:'#0000ff',highlightStrokeColor:'#0000ff'});
+board.unsuspendUpdate();
+board.setBoundingBox([-3.00000,9394.80000,18.00000,-1565.80000]);
+</script>
+
+<div id="3DtoTracksSize" class="jxgbox" style="width:600px; height:300px;"></div>
+<script type="text/javascript">
+var board = JXG.JSXGraph.initBoard('3DtoTracksSize', {boundingbox: [-10, 10, 10, -10], axis:true,showCopyright:false});
+board.suspendUpdate();
+var data0= [2.00000,3.02500,4.05000,5.07500,6.10000,7.12500,8.15000,9.17500,10.20000,11.22500,12.25000,13.27500,14.30000,15.32500,16.35000,17.37500,18.40000,19.42500,20.45000,21.47500,22.50000,23.52500,24.55000,25.57500,26.60000,27.62500,28.65000,29.67500,30.70000,31.72500,32.75000,33.77500,34.80000,35.82500,36.85000,37.87500,38.90000,39.92500,40.95000,41.97500,43.00000,];
+var data1= [3564.00000,1080.00000,515.00000,294.00000,194.00000,151.00000,98.00000,89.00000,62.00000,47.00000,49.00000,44.00000,42.00000,35.00000,33.00000,20.00000,18.00000,18.00000,9.00000,14.00000,14.00000,15.00000,9.00000,9.00000,10.00000,7.00000,7.00000,6.00000,11.00000,3.00000,3.00000,8.00000,6.00000,6.00000,7.00000,2.00000,1.00000,2.00000,4.00000,2.00000,3.00000,];
+board.createElement('chart', [ data0,data1], {chartStyle:'line,point',labels:[ data0,data1],strokeColor:'#0000ff',highlightStrokeColor:'#0000ff'});
+board.unsuspendUpdate();
+board.setBoundingBox([-6.20000,4276.60000,51.20000,-711.60000]);
+</script>
+</html>

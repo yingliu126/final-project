@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "FeatureExtraction_1",
+    "nodeType": "FeatureExtraction",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_featureExtraction  --input \"D:/ly/stage3/gun11/MeshroomCache/CameraInit/687b5c9a12a9bf9e49a15e7ae5bc3f644e35b27c/cameraInit.sfm\" --masksFolder \"D:/ly/stage3/gun11/MeshroomCache/ImageMasking/97463205e2735f44bfbc56adb995e9b6307ad576\" --describerTypes sift,akaze --describerPreset normal --describerQuality normal --contrastFiltering GridSort --gridFiltering True --workingColorSpace sRGB --forceCpuExtraction True --maxThreads 0 --verboseLevel info --output \"D:/ly/stage3/gun11/MeshroomCache/FeatureExtraction/fcc350a26290f5e4ad46fc677caa69adf64d437b\" --rangeStart 0 --rangeSize 40",
+    "env": null,
+    "startDateTime": "2024-09-04 02:14:42.687135",
+    "endDateTime": "2024-09-04 02:14:59.114187",
+    "elapsedTime": 16.42705225944519,
+    "hostname": "DESKTOP-OHJFF0E",
+    "sessionUid": "5fc69710-6a52-11ef-8300-08d23ee4e0e8",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:00:16.427052"
+}

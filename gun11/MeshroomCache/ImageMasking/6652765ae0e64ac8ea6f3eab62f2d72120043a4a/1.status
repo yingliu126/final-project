@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "ImageMasking_1",
+    "nodeType": "ImageMasking",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_imageMasking  --input \"D:/ly/stage3/gun11/MeshroomCache/CameraInit/1262a38002bb6e009b188d7a3de117f2b6638a60/cameraInit.sfm\" --algorithm AutoGrayscaleThreshold --invert True --growRadius 0 --shrinkRadius 0 --depthMapFolder \"\" --depthMapExp \"\" --verboseLevel info --output \"D:/ly/stage3/gun11/MeshroomCache/ImageMasking/6652765ae0e64ac8ea6f3eab62f2d72120043a4a\" --rangeStart 40 --rangeSize 40",
+    "env": null,
+    "startDateTime": "2024-09-10 13:29:04.529329",
+    "endDateTime": "2024-09-10 13:29:04.970327",
+    "elapsedTime": 0.4409983158111572,
+    "hostname": "DESKTOP-OHJFF0E",
+    "sessionUid": "38e155d2-6f54-11ef-96a2-08d23ee4e0e8",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:00:00.440998"
+}

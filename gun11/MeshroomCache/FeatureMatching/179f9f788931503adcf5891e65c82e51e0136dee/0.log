@@ -1,0 +1,107 @@
+[2024-09-04 02:15:00.149250] [0x0000e654] [trace]   Embedded OCIO configuration file: 'D:\ly\stage3\Meshroom-2023.2.0-win64\Meshroom-2023.2.0\aliceVision/share/aliceVision/config.ocio' found.
+Program called with the following parameters:
+ * crossMatching = 0
+ * describerTypes = "sift,akaze"
+ * distanceRatio = 0.8
+ * exportDebugFiles = 0
+ * featuresFolders =  = [D:/ly/stage3/gun11/MeshroomCache/FeatureExtraction/fcc350a26290f5e4ad46fc677caa69adf64d437b]
+ * geometricError = 0
+ * geometricEstimator =  Unknown Type "enum aliceVision::robustEstimation::ERobustEstimator"
+ * geometricFilterType = "fundamental_matrix"
+ * guidedMatching = 0
+ * imagePairsList =  = [D:/ly/stage3/gun11/MeshroomCache/ImageMatching/3012b4f5cd7c3b721d52c08eb120f37c3374dfe0/imageMatches.txt]
+ * input = "D:/ly/stage3/gun11/MeshroomCache/CameraInit/687b5c9a12a9bf9e49a15e7ae5bc3f644e35b27c/cameraInit.sfm"
+ * knownPosesGeometricErrorMax = 5
+ * matchFilePerImage = 0 (default)
+ * matchFromKnownCameraPoses = 0
+ * maxCoresAvailable =  Unknown Type "unsigned int" (default)
+ * maxIteration = 2048
+ * maxMatches = 0
+ * maxMemoryAvailable = 18446744073709551615 (default)
+ * minRequired2DMotion = -1
+ * output = "D:/ly/stage3/gun11/MeshroomCache/FeatureMatching/179f9f788931503adcf5891e65c82e51e0136dee"
+ * photometricMatchingMethod = "ANN_L2"
+ * randomSeed = 5489 (default)
+ * rangeSize = 20
+ * rangeStart = 0
+ * savePutativeMatches = 0
+ * useGridSort = 1 (default)
+ * verboseLevel = "info"
+
+Hardware : 
+	Detected core count : 16
+	OpenMP will use 16 cores
+	Detected available memory : 5581 Mo
+
+[02:15:00.155774][info] Load pair list from file: D:/ly/stage3/gun11/MeshroomCache/ImageMatching/3012b4f5cd7c3b721d52c08eb120f37c3374dfe0/imageMatches.txt
+[02:15:00.155774][info] loadPairs: image pair (446678479, 462450697) added.
+[02:15:00.155774][info] loadPairs: image pair (446678479, 468034491) added.
+[02:15:00.155774][info] loadPairs: image pair (446678479, 1229031559) added.
+[02:15:00.155774][info] loadPairs: image pair (446678479, 1253953133) added.
+[02:15:00.155774][info] loadPairs: image pair (462450697, 468034491) added.
+[02:15:00.155774][info] loadPairs: image pair (462450697, 1229031559) added.
+[02:15:00.155774][info] loadPairs: image pair (462450697, 1253953133) added.
+[02:15:00.155774][info] loadPairs: image pair (468034491, 1229031559) added.
+[02:15:00.155774][info] loadPairs: image pair (468034491, 1253953133) added.
+[02:15:00.155774][info] loadPairs: image pair (1229031559, 1253953133) added.
+[02:15:00.155774][info] Number of pairs: 10
+[02:15:00.155774][info] There are 5 views and 10 image pairs.
+[02:15:00.155774][info] Load features and descriptors
+Loading regions
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+[02:15:00.315189][info] Supported CUDA-Enabled GPU detected.
+***************************************************
+[02:15:00.344936][info] Putative matches (unknown poses): 10 image pairs.
+[02:15:00.344936][info] sift Regions Matching
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+[02:15:00.578600][info] akaze Regions Matching
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+[02:15:00.648220][info] 10 putative image pair matches
+[02:15:00.648220][info] 	- image pair (446678479, 462450697) contains 458 putative matches.
+[02:15:00.648220][info] 	- image pair (446678479, 468034491) contains 272 putative matches.
+[02:15:00.648220][info] 	- image pair (446678479, 1229031559) contains 357 putative matches.
+[02:15:00.648220][info] 	- image pair (446678479, 1253953133) contains 149 putative matches.
+[02:15:00.648220][info] 	- image pair (462450697, 468034491) contains 423 putative matches.
+[02:15:00.648220][info] 	- image pair (462450697, 1229031559) contains 292 putative matches.
+[02:15:00.648220][info] 	- image pair (462450697, 1253953133) contains 169 putative matches.
+[02:15:00.648220][info] 	- image pair (468034491, 1229031559) contains 131 putative matches.
+[02:15:00.648220][info] 	- image pair (468034491, 1253953133) contains 118 putative matches.
+[02:15:00.648220][info] 	- image pair (1229031559, 1253953133) contains 231 putative matches.
+[02:15:00.648220][info] Task (Regions Matching) done in (s): 0.303000
+[02:15:00.648220][info] Geometric filtering: using fundamental_matrix
+Robust Model Estimation
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+[02:15:00.676805][info] 10 geometric image pair matches:
+[02:15:00.676805][info] 	- image pair (446678479, 462450697) contains 403 geometric matches.
+[02:15:00.676805][info] 	- image pair (446678479, 468034491) contains 200 geometric matches.
+[02:15:00.676805][info] 	- image pair (446678479, 1229031559) contains 315 geometric matches.
+[02:15:00.676805][info] 	- image pair (446678479, 1253953133) contains 108 geometric matches.
+[02:15:00.676805][info] 	- image pair (462450697, 468034491) contains 325 geometric matches.
+[02:15:00.676805][info] 	- image pair (462450697, 1229031559) contains 251 geometric matches.
+[02:15:00.676805][info] 	- image pair (462450697, 1253953133) contains 96 geometric matches.
+[02:15:00.676805][info] 	- image pair (468034491, 1229031559) contains 88 geometric matches.
+[02:15:00.676805][info] 	- image pair (468034491, 1253953133) contains 81 geometric matches.
+[02:15:00.676805][info] 	- image pair (1229031559, 1253953133) contains 189 geometric matches.
+[02:15:00.676805][info] Grid filtering
+[02:15:00.677805][info] After grid filtering:
+[02:15:00.677805][info] 	- image pair (446678479, 462450697) contains 403 geometric matches.
+[02:15:00.677805][info] 	- image pair (446678479, 468034491) contains 200 geometric matches.
+[02:15:00.677805][info] 	- image pair (446678479, 1229031559) contains 315 geometric matches.
+[02:15:00.677805][info] 	- image pair (446678479, 1253953133) contains 108 geometric matches.
+[02:15:00.677805][info] 	- image pair (462450697, 468034491) contains 325 geometric matches.
+[02:15:00.677805][info] 	- image pair (462450697, 1229031559) contains 251 geometric matches.
+[02:15:00.677805][info] 	- image pair (462450697, 1253953133) contains 96 geometric matches.
+[02:15:00.677805][info] 	- image pair (468034491, 1229031559) contains 88 geometric matches.
+[02:15:00.677805][info] 	- image pair (468034491, 1253953133) contains 81 geometric matches.
+[02:15:00.677805][info] 	- image pair (1229031559, 1253953133) contains 189 geometric matches.
+[02:15:00.677805][info] Save geometric matches.
+[02:15:00.681797][info] Task done in (s): 0.032000

@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "FeatureMatching_1",
+    "nodeType": "FeatureMatching",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_featureMatching  --input \"D:/ly/stage3/gun11/MeshroomCache/CameraInit/25004f5af1f80310f6b970a0a11292a12fc3c014/cameraInit.sfm\" --featuresFolders \"D:/ly/stage3/gun11/MeshroomCache/FeatureExtraction/3b1ce6643089b8a3ce10f9c6495c557ddc3fbd8d\" --imagePairsList \"D:/ly/stage3/gun11/MeshroomCache/ImageMatching/5bbcf53a2ca86bab72d2f850c02e62df41432742/imageMatches.txt\" --describerTypes sift,akaze --photometricMatchingMethod ANN_L2 --geometricEstimator acransac --geometricFilterType fundamental_matrix --distanceRatio 0.8 --maxIteration 2048 --geometricError 0.0 --knownPosesGeometricErrorMax 5.0 --minRequired2DMotion -1.0 --maxMatches 0 --savePutativeMatches False --crossMatching False --guidedMatching False --matchFromKnownCameraPoses False --exportDebugFiles False --verboseLevel info --output \"D:/ly/stage3/gun11/MeshroomCache/FeatureMatching/f42e41021f514aa8c8be86664c5360b9b5db83d9\" --rangeStart 0 --rangeSize 20",
+    "env": null,
+    "startDateTime": "2024-09-04 02:40:13.507781",
+    "endDateTime": "2024-09-04 02:40:14.108116",
+    "elapsedTime": 0.6003353595733643,
+    "hostname": "DESKTOP-OHJFF0E",
+    "sessionUid": "5fc69710-6a52-11ef-8300-08d23ee4e0e8",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:00:00.600335"
+}

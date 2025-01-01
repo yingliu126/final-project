@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "StructureFromMotion_1",
+    "nodeType": "StructureFromMotion",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_incrementalSfM  --input \"D:/ly/stage3/gun11/MeshroomCache/CameraInit/e4bb685eed20d44f008e9c127a5233015219cce2/cameraInit.sfm\" --featuresFolders \"D:/ly/stage3/gun11/MeshroomCache/FeatureExtraction/e5a7d4ace9ae1883aff5e81b87dac22fef7641bf\" --matchesFolders \"D:/ly/stage3/gun11/MeshroomCache/FeatureMatching/e7b70122598b633c1972fed53e153301c9ad780c\" --describerTypes sift,akaze --localizerEstimator acransac --observationConstraint Scale --localizerEstimatorMaxIterations 4096 --localizerEstimatorError 0.0 --lockScenePreviouslyReconstructed False --useLocalBA True --localBAGraphDistance 1 --nbFirstUnstableCameras 30 --maxImagesPerGroup 30 --bundleAdjustmentMaxOutliers 50 --maxNumberOfMatches 0 --minNumberOfMatches 0 --minInputTrackLength 2 --minNumberOfObservationsForTriangulation 2 --minAngleForTriangulation 3.0 --minAngleForLandmark 2.0 --maxReprojectionError 4.0 --minAngleInitialPair 5.0 --maxAngleInitialPair 40.0 --useOnlyMatchesFromInputFolder False --useRigConstraint True --rigMinNbCamerasForCalibration 20 --lockAllIntrinsics False --minNbCamerasToRefinePrincipalPoint 3 --filterTrackForks False --computeStructureColor True --initialPairA \"\" --initialPairB \"\" --interFileExtension .abc --verboseLevel info --output \"D:/ly/stage3/gun11/MeshroomCache/StructureFromMotion/335cbc05c80d9d9aa02f7b447533312395238b31/sfm.abc\" --outputViewsAndPoses \"D:/ly/stage3/gun11/MeshroomCache/StructureFromMotion/335cbc05c80d9d9aa02f7b447533312395238b31/cameras.sfm\" --extraInfoFolder \"D:/ly/stage3/gun11/MeshroomCache/StructureFromMotion/335cbc05c80d9d9aa02f7b447533312395238b31\"",
+    "env": null,
+    "startDateTime": "2024-09-04 02:43:54.870755",
+    "endDateTime": "2024-09-04 02:43:57.872092",
+    "elapsedTime": 3.0013368129730225,
+    "hostname": "DESKTOP-OHJFF0E",
+    "sessionUid": "5fc69710-6a52-11ef-8300-08d23ee4e0e8",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:00:03.001337"
+}

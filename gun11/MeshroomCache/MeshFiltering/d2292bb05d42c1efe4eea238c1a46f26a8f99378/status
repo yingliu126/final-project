@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "MeshFiltering_1",
+    "nodeType": "MeshFiltering",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_meshFiltering  --inputMesh \"D:/ly/stage3/gun11/MeshroomCache/Meshing/af6c4360fbfa1e179304f10cbe27e31553de0b50/mesh.obj\" --keepLargestMeshOnly False --smoothingSubset all --smoothingBoundariesNeighbours 0 --smoothingIterations 5 --smoothingLambda 1.0 --filteringSubset all --filteringIterations 1 --filterLargeTrianglesFactor 60.0 --filterTrianglesRatio 0.0 --verboseLevel info --outputMesh \"D:/ly/stage3/gun11/MeshroomCache/MeshFiltering/d2292bb05d42c1efe4eea238c1a46f26a8f99378/mesh.obj\"",
+    "env": null,
+    "startDateTime": "2024-09-10 13:46:44.035780",
+    "endDateTime": "2024-09-10 13:46:44.356779",
+    "elapsedTime": 0.3209991455078125,
+    "hostname": "DESKTOP-OHJFF0E",
+    "sessionUid": "38e155d2-6f54-11ef-96a2-08d23ee4e0e8",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:00:00.320999"
+}

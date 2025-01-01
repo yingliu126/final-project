@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "PrepareDenseScene_1",
+    "nodeType": "PrepareDenseScene",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_prepareDenseScene  --input \"D:/ly/stage3/gun11/MeshroomCache/StructureFromMotion/076bce891f482d5ec95c8e0d20496480a4031234/sfm.abc\" --masksFolders \"D:/ly/stage3/gun11/MeshroomCache/ImageMasking/8e3ea630ce67f4c011a17f194d6f9512a84c5096\" --outputFileType exr --saveMetadata True --saveMatricesTxtFiles False --evCorrection False --verboseLevel info --output \"D:/ly/stage3/gun11/MeshroomCache/PrepareDenseScene/7d31435a7c34256ddffde0c2d692bd2454cd50f7\" --rangeStart 40 --rangeSize 40",
+    "env": null,
+    "startDateTime": "2024-09-10 13:44:25.572930",
+    "endDateTime": "2024-09-10 13:44:26.418008",
+    "elapsedTime": 0.8450782299041748,
+    "hostname": "DESKTOP-OHJFF0E",
+    "sessionUid": "38e155d2-6f54-11ef-96a2-08d23ee4e0e8",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:00:00.845078"
+}

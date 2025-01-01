@@ -1,0 +1,25 @@
+[2024-09-10 13:44:25.633928] [0x00010c04] [trace]   Embedded OCIO configuration file: 'D:\ly\stage3\Meshroom-2023.2.0-win64\Meshroom-2023.2.0\aliceVision/share/aliceVision/config.ocio' found.
+Program called with the following parameters:
+ * evCorrection = 0
+ * input = "D:/ly/stage3/gun11/MeshroomCache/StructureFromMotion/076bce891f482d5ec95c8e0d20496480a4031234/sfm.abc"
+ * masksFolders =  = [D:/ly/stage3/gun11/MeshroomCache/ImageMasking/8e3ea630ce67f4c011a17f194d6f9512a84c5096]
+ * maxCoresAvailable =  Unknown Type "unsigned int" (default)
+ * maxMemoryAvailable = 18446744073709551615 (default)
+ * output = "D:/ly/stage3/gun11/MeshroomCache/PrepareDenseScene/7d31435a7c34256ddffde0c2d692bd2454cd50f7"
+ * outputFileType = "exr"
+ * rangeSize = 40
+ * rangeStart = 40
+ * saveMatricesTxtFiles = 0
+ * saveMetadata = 1
+ * verboseLevel = "info"
+
+Hardware : 
+	Detected core count : 16
+	OpenMP will use 16 cores
+	Detected available memory : 5339 Mo
+
+Exporting Scene Undistorted Images
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+[13:44:25.649930][info] Median Camera Exposure: -1, Median EV: -nan(ind)
+***************************************************

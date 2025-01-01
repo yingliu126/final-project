@@ -1,0 +1,107 @@
+[2024-09-04 02:40:13.597302] [0x0000c2c8] [trace]   Embedded OCIO configuration file: 'D:\ly\stage3\Meshroom-2023.2.0-win64\Meshroom-2023.2.0\aliceVision/share/aliceVision/config.ocio' found.
+Program called with the following parameters:
+ * crossMatching = 0
+ * describerTypes = "sift,akaze"
+ * distanceRatio = 0.8
+ * exportDebugFiles = 0
+ * featuresFolders =  = [D:/ly/stage3/gun11/MeshroomCache/FeatureExtraction/3b1ce6643089b8a3ce10f9c6495c557ddc3fbd8d]
+ * geometricError = 0
+ * geometricEstimator =  Unknown Type "enum aliceVision::robustEstimation::ERobustEstimator"
+ * geometricFilterType = "fundamental_matrix"
+ * guidedMatching = 0
+ * imagePairsList =  = [D:/ly/stage3/gun11/MeshroomCache/ImageMatching/5bbcf53a2ca86bab72d2f850c02e62df41432742/imageMatches.txt]
+ * input = "D:/ly/stage3/gun11/MeshroomCache/CameraInit/25004f5af1f80310f6b970a0a11292a12fc3c014/cameraInit.sfm"
+ * knownPosesGeometricErrorMax = 5
+ * matchFilePerImage = 0 (default)
+ * matchFromKnownCameraPoses = 0
+ * maxCoresAvailable =  Unknown Type "unsigned int" (default)
+ * maxIteration = 2048
+ * maxMatches = 0
+ * maxMemoryAvailable = 18446744073709551615 (default)
+ * minRequired2DMotion = -1
+ * output = "D:/ly/stage3/gun11/MeshroomCache/FeatureMatching/f42e41021f514aa8c8be86664c5360b9b5db83d9"
+ * photometricMatchingMethod = "ANN_L2"
+ * randomSeed = 5489 (default)
+ * rangeSize = 20
+ * rangeStart = 0
+ * savePutativeMatches = 0
+ * useGridSort = 1 (default)
+ * verboseLevel = "info"
+
+Hardware : 
+	Detected core count : 16
+	OpenMP will use 16 cores
+	Detected available memory : 5629 Mo
+
+[02:40:13.602817][info] Load pair list from file: D:/ly/stage3/gun11/MeshroomCache/ImageMatching/5bbcf53a2ca86bab72d2f850c02e62df41432742/imageMatches.txt
+[02:40:13.602817][info] loadPairs: image pair (1080664269, 1515471339) added.
+[02:40:13.602817][info] loadPairs: image pair (1080664269, 1941149670) added.
+[02:40:13.602817][info] loadPairs: image pair (1080664269, 1956052955) added.
+[02:40:13.602817][info] loadPairs: image pair (1080664269, 1962826856) added.
+[02:40:13.602817][info] loadPairs: image pair (1515471339, 1941149670) added.
+[02:40:13.602817][info] loadPairs: image pair (1515471339, 1956052955) added.
+[02:40:13.602817][info] loadPairs: image pair (1515471339, 1962826856) added.
+[02:40:13.602817][info] loadPairs: image pair (1941149670, 1956052955) added.
+[02:40:13.602817][info] loadPairs: image pair (1941149670, 1962826856) added.
+[02:40:13.602817][info] loadPairs: image pair (1956052955, 1962826856) added.
+[02:40:13.602817][info] Number of pairs: 10
+[02:40:13.602817][info] There are 5 views and 10 image pairs.
+[02:40:13.602817][info] Load features and descriptors
+Loading regions
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+[02:40:13.756043][info] Supported CUDA-Enabled GPU detected.
+***************************************************
+[02:40:13.780626][info] Putative matches (unknown poses): 10 image pairs.
+[02:40:13.780626][info] sift Regions Matching
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+[02:40:13.956211][info] akaze Regions Matching
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+[02:40:14.004735][info] 10 putative image pair matches
+[02:40:14.005736][info] 	- image pair (1080664269, 1515471339) contains 82 putative matches.
+[02:40:14.005736][info] 	- image pair (1080664269, 1941149670) contains 126 putative matches.
+[02:40:14.005736][info] 	- image pair (1080664269, 1956052955) contains 172 putative matches.
+[02:40:14.005736][info] 	- image pair (1080664269, 1962826856) contains 195 putative matches.
+[02:40:14.005736][info] 	- image pair (1515471339, 1941149670) contains 172 putative matches.
+[02:40:14.005736][info] 	- image pair (1515471339, 1956052955) contains 205 putative matches.
+[02:40:14.005736][info] 	- image pair (1515471339, 1962826856) contains 167 putative matches.
+[02:40:14.005736][info] 	- image pair (1941149670, 1956052955) contains 418 putative matches.
+[02:40:14.005736][info] 	- image pair (1941149670, 1962826856) contains 303 putative matches.
+[02:40:14.005736][info] 	- image pair (1956052955, 1962826856) contains 482 putative matches.
+[02:40:14.005736][info] Task (Regions Matching) done in (s): 0.224000
+[02:40:14.005736][info] Geometric filtering: using fundamental_matrix
+Robust Model Estimation
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+[02:40:14.032800][info] 10 geometric image pair matches:
+[02:40:14.032800][info] 	- image pair (1080664269, 1515471339) contains 51 geometric matches.
+[02:40:14.032800][info] 	- image pair (1080664269, 1941149670) contains 87 geometric matches.
+[02:40:14.032800][info] 	- image pair (1080664269, 1956052955) contains 100 geometric matches.
+[02:40:14.032800][info] 	- image pair (1080664269, 1962826856) contains 117 geometric matches.
+[02:40:14.032800][info] 	- image pair (1515471339, 1941149670) contains 126 geometric matches.
+[02:40:14.032800][info] 	- image pair (1515471339, 1956052955) contains 129 geometric matches.
+[02:40:14.032800][info] 	- image pair (1515471339, 1962826856) contains 91 geometric matches.
+[02:40:14.032800][info] 	- image pair (1941149670, 1956052955) contains 352 geometric matches.
+[02:40:14.032800][info] 	- image pair (1941149670, 1962826856) contains 247 geometric matches.
+[02:40:14.032800][info] 	- image pair (1956052955, 1962826856) contains 382 geometric matches.
+[02:40:14.032800][info] Grid filtering
+[02:40:14.033800][info] After grid filtering:
+[02:40:14.033800][info] 	- image pair (1080664269, 1515471339) contains 51 geometric matches.
+[02:40:14.033800][info] 	- image pair (1080664269, 1941149670) contains 87 geometric matches.
+[02:40:14.033800][info] 	- image pair (1080664269, 1956052955) contains 100 geometric matches.
+[02:40:14.033800][info] 	- image pair (1080664269, 1962826856) contains 117 geometric matches.
+[02:40:14.033800][info] 	- image pair (1515471339, 1941149670) contains 126 geometric matches.
+[02:40:14.033800][info] 	- image pair (1515471339, 1956052955) contains 129 geometric matches.
+[02:40:14.033800][info] 	- image pair (1515471339, 1962826856) contains 91 geometric matches.
+[02:40:14.033800][info] 	- image pair (1941149670, 1956052955) contains 352 geometric matches.
+[02:40:14.033800][info] 	- image pair (1941149670, 1962826856) contains 247 geometric matches.
+[02:40:14.033800][info] 	- image pair (1956052955, 1962826856) contains 382 geometric matches.
+[02:40:14.033800][info] Save geometric matches.
+[02:40:14.036801][info] Task done in (s): 0.031000

@@ -1,0 +1,113 @@
+[2024-09-04 02:15:11.645196] [0x0000e628] [trace]   Embedded OCIO configuration file: 'D:\ly\stage3\Meshroom-2023.2.0-win64\Meshroom-2023.2.0\aliceVision/share/aliceVision/config.ocio' found.
+Program called with the following parameters:
+ * angleHardThreshold = 90
+ * bestScoreThreshold = 0.1
+ * bumpType =  Unknown Type "enum aliceVision::mesh::EBumpMappingType" (default)
+ * colorMappingFileType =  Unknown Type "enum aliceVision::image::EImageFileType"
+ * correctEV = 0
+ * displacementMappingFileType =  Unknown Type "enum aliceVision::image::EImageFileType" (default)
+ * downscale =  Unknown Type "unsigned int"
+ * fillHoles = 0
+ * flipNormals = 0
+ * forceVisibleByAllVertices = 0
+ * heightFileType =  Unknown Type "enum aliceVision::image::EImageFileType" (default)
+ * imagesFolder = "D:/ly/stage3/gun11/MeshroomCache/PrepareDenseScene/7ce62416cdf95126010e379644efcd5bc819e3bd"
+ * input = "D:/ly/stage3/gun11/MeshroomCache/Meshing/1893451f279ba2896bfc0b83260c3e543eab7e8c/densePointCloud.abc"
+ * inputMesh = "D:/ly/stage3/gun11/MeshroomCache/MeshFiltering/c61fe9fd40608bf3f96e686e0a4785aabda82a1e/mesh.obj"
+ * inputRefMesh = ""
+ * maxCoresAvailable =  Unknown Type "unsigned int" (default)
+ * maxMemoryAvailable = 18446744073709551615 (default)
+ * multiBandDownscale =  Unknown Type "unsigned int"
+ * multiBandNbContrib =  Unknown Type "class std::vector<int,class std::allocator<int> >"
+ * normalFileType =  Unknown Type "enum aliceVision::image::EImageFileType" (default)
+ * output = "D:/ly/stage3/gun11/MeshroomCache/Texturing/210c4b2078c443900477b20d6c2bb40cd7a9b33c"
+ * outputColorSpace =  Unknown Type "enum aliceVision::image::EImageColorSpace"
+ * outputMeshFileType =  Unknown Type "enum aliceVision::mesh::EFileType"
+ * padding =  Unknown Type "unsigned int"
+ * subdivisionTargetRatio = 0.8
+ * textureSide =  Unknown Type "unsigned int"
+ * unwrapMethod = "Basic"
+ * useScore = 1
+ * useUDIM = 1
+ * verboseLevel = "info"
+ * visibilityRemappingMethod = "PullPush"
+ * workingColorSpace =  Unknown Type "enum aliceVision::image::EImageColorSpace"
+
+Hardware : 
+	Detected core count : 16
+	OpenMP will use 16 cores
+	Detected available memory : 5564 Mo
+
+[02:15:11.652210][info] Load dense point cloud.
+[02:15:11.655500][warning] Alembic LOAD: NO OBSERVATIONS_WITH_FEATURES: , mvg_visibilityFeatId: 0, mvg_visibilityFeatPos: 0, OBSERVATIONS_WITH_FEATURES flag: false
+[02:15:11.661489][info] Found 1 image dimension(s): 
+[02:15:11.661489][info] 	- [1920x1080]
+[02:15:11.677183][info] Overall maximum dimension: [1920x1080]
+[02:15:11.677183][info] Load input mesh.
+[02:15:11.694947][info] Convert dense point cloud into ref mesh
+[02:15:11.697946][info] remapMeshVisibility based on triangles start.
+[02:15:11.700948][info] remapMeshVisibility done.
+[02:15:11.700948][info] Input mesh has no UV coordinates, start unwrapping (Basic)
+[02:15:11.700948][info] Generating UVs (textureSide: 8192; padding: 5).
+[02:15:11.700948][info] Creating texture charts.
+[02:15:11.703959][info] Packing texture charts (3356 charts).
+[02:15:11.710990][info] Finalize packed charts (4 charts).
+[02:15:11.711992][info] Creating texture atlases.
+[02:15:11.711992][info] 	- texture atlas 1
+[02:15:11.711992][info] Filled with 4 charts.
+[02:15:11.713992][info] Unwrapping done.
+[02:15:11.713992][info] Save D:/ly/stage3/gun11/MeshroomCache/Texturing/210c4b2078c443900477b20d6c2bb40cd7a9b33c\texturedMesh.obj mesh file
+[02:15:11.742562][info] Save mesh to obj done.
+[02:15:11.742562][info] Subdivide mesh.
+[02:15:11.744070][info] nb pts init: 1783
+[02:15:11.744070][info] nb tris init: 3356
+[02:15:11.744070][info] nb points in refMesh: 1783
+[02:15:11.744070][info] targetNbPts: 1426
+[02:15:11.744070][info] No subdivision needed.
+[02:15:11.744070][info] Number of triangle subdivisions: 0
+[02:15:11.744070][info] updateAtlases
+[02:15:11.744070][info] remapMeshVisibility based on triangles start.
+[02:15:11.748101][info] remapMeshVisibility done.
+[02:15:11.748101][info] Generate textures.
+[02:15:11.748101][info] Texturing: Use multiband blending with the following contributions per band:
+[02:15:11.748101][info]   - 1
+[02:15:11.748101][info]   - 5
+[02:15:11.748101][info]   - 10
+[02:15:11.748101][info] Texturing in srgb colorspace.
+[02:15:11.748101][info] Images loaded from cache with: no exposure correction
+[02:15:11.748101][info] nbAtlas: 1
+[02:15:11.748101][info] availableRam: 5544
+[02:15:11.748101][info] availableMem: 5360
+[02:15:11.748101][info] memoryPerAtlas: 3164
+[02:15:11.748101][info] nbAtlasMax (after rounding): 1
+[02:15:11.748101][info] Total amount of available RAM: 5544 MB.
+[02:15:11.748101][info] Total amount of memory remaining for the computation: 5360 MB.
+[02:15:11.748101][info] Total amount of an image in memory: 23 MB.
+[02:15:11.748101][info] Total amount of an atlas pyramid in memory: 3072 MB.
+[02:15:11.748101][info] Processing 1 atlases by chunks of 1
+[02:15:11.748101][info] Generating texture for atlases 1 to 1
+[02:15:11.748101][info] Generating texture for atlas 1/1 (3356 triangles).
+[02:15:11.761618][info] Reading pixel color.
+[02:15:13.130748][info] - camera 446678479 (1/5) with contributions to 1 texture files:
+[02:15:13.312055][info]   - Texture file: 1
+[02:15:13.312055][info]       - band 1: 2 triangles.
+[02:15:13.312055][info]       - band 2: 3321 triangles.
+[02:15:13.325104][info]       - band 3: 0 triangles.
+[02:15:13.327112][info] - camera 462450697 (2/5) with contributions to 1 texture files:
+[02:15:13.528253][info]   - Texture file: 1
+[02:15:13.528253][info]       - band 1: 259 triangles.
+[02:15:13.529206][info]       - band 2: 3063 triangles.
+[02:15:13.540729][info]       - band 3: 0 triangles.
+[02:15:13.542738][info] - camera 468034491 (3/5) with contributions to 1 texture files:
+[02:15:13.739764][info]   - Texture file: 1
+[02:15:13.739764][info]       - band 1: 3064 triangles.
+[02:15:13.755788][info]       - band 2: 259 triangles.
+[02:15:13.755788][info]       - band 3: 0 triangles.
+[02:15:13.758798][info] - camera 1229031559 (4/5) unused.
+[02:15:13.758798][info] - camera 1253953133 (5/5) unused.
+[02:15:13.758798][info] Create texture 1
+[02:15:13.758798][info]   - Computing final (average) color.
+[02:15:14.454986][info]   - Edge padding (15 pixels).
+[02:15:14.862823][info]   - Downscaling texture (2x).
+[02:15:18.705007][info]   - Writing texture file: D:/ly/stage3/gun11/MeshroomCache/Texturing/210c4b2078c443900477b20d6c2bb40cd7a9b33c\texture_1001.exr
+[02:15:19.179815][info] Task done in (s): 7.530000

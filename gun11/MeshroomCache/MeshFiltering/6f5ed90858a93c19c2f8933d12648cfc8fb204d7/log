@@ -1,0 +1,52 @@
+[2024-09-04 02:40:23.557936] [0x00006fcc] [trace]   Embedded OCIO configuration file: 'D:\ly\stage3\Meshroom-2023.2.0-win64\Meshroom-2023.2.0\aliceVision/share/aliceVision/config.ocio' found.
+Program called with the following parameters:
+ * filterLargeTrianglesFactor = 60
+ * filterTrianglesRatio = 0
+ * filteringIterations = 1
+ * filteringSubset = "all"
+ * inputMesh = "D:/ly/stage3/gun11/MeshroomCache/Meshing/b5d5c4e483dacd2e8dbf97e5b0b209e8fc5eb196/mesh.obj"
+ * keepLargestMeshOnly = 0
+ * maxCoresAvailable =  Unknown Type "unsigned int" (default)
+ * maxMemoryAvailable = 18446744073709551615 (default)
+ * outputMesh = "D:/ly/stage3/gun11/MeshroomCache/MeshFiltering/6f5ed90858a93c19c2f8933d12648cfc8fb204d7/mesh.obj"
+ * smoothingBoundariesNeighbours = 0
+ * smoothingIterations = 5
+ * smoothingLambda = 1
+ * smoothingSubset = "all"
+ * verboseLevel = "info"
+
+Hardware : 
+	Detected core count : 16
+	OpenMP will use 16 cores
+	Detected available memory : 5616 Mo
+
+[02:40:23.577979][info] Mesh file: "D:/ly/stage3/gun11/MeshroomCache/Meshing/b5d5c4e483dacd2e8dbf97e5b0b209e8fc5eb196/mesh.obj" loaded.
+[02:40:23.577979][info] Input mesh: 2311 vertices and 4464 facets.
+[02:40:23.577979][info] Start mesh filtering.
+[02:40:23.577979][info] Mesh filtering: iteration 0
+[02:40:23.577979][info] Filtering large triangles.
+[02:40:23.579488][info] Filtering large triangles, done.
+[02:40:23.579488][info] Mesh filtering done: 2311 vertices and 4464 facets.
+[02:40:23.579488][info] Start mesh smoothing.
+[02:40:23.592019][info] cleanMesh:
+	- # wrong points: 20
+	- # new points: 21
+[02:40:23.598020][info] cleanMesh:
+	- # wrong points: 0
+	- # new points: 0
+[02:40:23.599526][info] Optimizing mesh smooth: 
+	- lamda: 1
+	- niters: 5
+[02:40:23.599526][info] Optimizing mesh smooth: iteration 0
+[02:40:23.599526][info] Optimizing mesh smooth: iteration 1
+[02:40:23.600532][info] Optimizing mesh smooth: iteration 2
+[02:40:23.600532][info] Optimizing mesh smooth: iteration 3
+[02:40:23.600532][info] Optimizing mesh smooth: iteration 4
+[02:40:23.600532][info] Mesh smoothing done: 2332 vertices and 4464 facets.
+[02:40:23.600532][info] remove free points from mesh.
+Output mesh: 2311 vertices and 4464 facets.
+[02:40:23.600532][info] Save mesh.
+[02:40:23.600532][info] Save obj mesh file
+[02:40:23.621569][info] Save mesh to obj done.
+[02:40:23.622576][info] Mesh file: "D:/ly/stage3/gun11/MeshroomCache/MeshFiltering/6f5ed90858a93c19c2f8933d12648cfc8fb204d7/mesh.obj" saved.
+[02:40:23.622576][info] Task done in (s): 0.062000

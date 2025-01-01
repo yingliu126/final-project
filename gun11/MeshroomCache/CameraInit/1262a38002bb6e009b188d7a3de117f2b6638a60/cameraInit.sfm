@@ -1,0 +1,729 @@
+{
+    "version": [
+        "1",
+        "2",
+        "4"
+    ],
+    "views": [
+        {
+            "viewId": "81360083",
+            "poseId": "81360083",
+            "frameId": "26",
+            "intrinsicId": "3437970772",
+            "path": "D:\/ly\/stage3\/gun11\/output png\/output_0026.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "oiio:ColorSpace": "Gamma2",
+                "oiio:Gamma": "1.96"
+            }
+        },
+        {
+            "viewId": "156295110",
+            "poseId": "156295110",
+            "frameId": "104",
+            "intrinsicId": "3437970772",
+            "path": "D:\/ly\/stage3\/gun11\/output png\/output_0104.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "oiio:ColorSpace": "Gamma2",
+                "oiio:Gamma": "1.96"
+            }
+        },
+        {
+            "viewId": "213617893",
+            "poseId": "213617893",
+            "frameId": "29",
+            "intrinsicId": "3437970772",
+            "path": "D:\/ly\/stage3\/gun11\/output png\/output_0029.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "oiio:ColorSpace": "Gamma2",
+                "oiio:Gamma": "1.96"
+            }
+        },
+        {
+            "viewId": "214029867",
+            "poseId": "214029867",
+            "frameId": "28",
+            "intrinsicId": "3437970772",
+            "path": "D:\/ly\/stage3\/gun11\/output png\/output_0028.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "oiio:ColorSpace": "Gamma2",
+                "oiio:Gamma": "1.96"
+            }
+        },
+        {
+            "viewId": "220015964",
+            "poseId": "220015964",
+            "frameId": "24",
+            "intrinsicId": "3437970772",
+            "path": "D:\/ly\/stage3\/gun11\/output png\/output_0024.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "oiio:ColorSpace": "Gamma2",
+                "oiio:Gamma": "1.96"
+            }
+        },
+        {
+            "viewId": "220438100",
+            "poseId": "220438100",
+            "frameId": "25",
+            "intrinsicId": "3437970772",
+            "path": "D:\/ly\/stage3\/gun11\/output png\/output_0025.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "oiio:ColorSpace": "Gamma2",
+                "oiio:Gamma": "1.96"
+            }
+        },
+        {
+            "viewId": "223694228",
+            "poseId": "223694228",
+            "frameId": "22",
+            "intrinsicId": "3437970772",
+            "path": "D:\/ly\/stage3\/gun11\/output png\/output_0022.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "oiio:ColorSpace": "Gamma2",
+                "oiio:Gamma": "1.96"
+            }
+        },
+        {
+            "viewId": "227349516",
+            "poseId": "227349516",
+            "frameId": "23",
+            "intrinsicId": "3437970772",
+            "path": "D:\/ly\/stage3\/gun11\/output png\/output_0023.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "oiio:ColorSpace": "Gamma2",
+                "oiio:Gamma": "1.96"
+            }
+        },
+        {
+            "viewId": "229389756",
+            "poseId": "229389756",
+            "frameId": "102",
+            "intrinsicId": "3437970772",
+            "path": "D:\/ly\/stage3\/gun11\/output png\/output_0102.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "oiio:ColorSpace": "Gamma2",
+                "oiio:Gamma": "1.96"
+            }
+        },
+        {
+            "viewId": "230706637",
+            "poseId": "230706637",
+            "frameId": "103",
+            "intrinsicId": "3437970772",
+            "path": "D:\/ly\/stage3\/gun11\/output png\/output_0103.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "oiio:ColorSpace": "Gamma2",
+                "oiio:Gamma": "1.96"
+            }
+        },
+        {
+            "viewId": "231347619",
+            "poseId": "231347619",
+            "frameId": "21",
+            "intrinsicId": "3437970772",
+            "path": "D:\/ly\/stage3\/gun11\/output png\/output_0021.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "oiio:ColorSpace": "Gamma2",
+                "oiio:Gamma": "1.96"
+            }
+        },
+        {
+            "viewId": "232147167",
+            "poseId": "232147167",
+            "frameId": "100",
+            "intrinsicId": "3437970772",
+            "path": "D:\/ly\/stage3\/gun11\/output png\/output_0100.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "oiio:ColorSpace": "Gamma2",
+                "oiio:Gamma": "1.96"
+            }
+        },
+        {
+            "viewId": "233225317",
+            "poseId": "233225317",
+            "frameId": "107",
+            "intrinsicId": "3437970772",
+            "path": "D:\/ly\/stage3\/gun11\/output png\/output_0107.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "oiio:ColorSpace": "Gamma2",
+                "oiio:Gamma": "1.96"
+            }
+        },
+        {
+            "viewId": "402711009",
+            "poseId": "402711009",
+            "frameId": "139",
+            "intrinsicId": "3437970772",
+            "path": "D:\/ly\/stage3\/gun11\/output png\/output_0139.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "oiio:ColorSpace": "Gamma2",
+                "oiio:Gamma": "1.96"
+            }
+        },
+        {
+            "viewId": "408312426",
+            "poseId": "408312426",
+            "frameId": "134",
+            "intrinsicId": "3437970772",
+            "path": "D:\/ly\/stage3\/gun11\/output png\/output_0134.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "oiio:ColorSpace": "Gamma2",
+                "oiio:Gamma": "1.96"
+            }
+        },
+        {
+            "viewId": "410358630",
+            "poseId": "410358630",
+            "frameId": "133",
+            "intrinsicId": "3437970772",
+            "path": "D:\/ly\/stage3\/gun11\/output png\/output_0133.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "oiio:ColorSpace": "Gamma2",
+                "oiio:Gamma": "1.96"
+            }
+        },
+        {
+            "viewId": "417574239",
+            "poseId": "417574239",
+            "frameId": "136",
+            "intrinsicId": "3437970772",
+            "path": "D:\/ly\/stage3\/gun11\/output png\/output_0136.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "oiio:ColorSpace": "Gamma2",
+                "oiio:Gamma": "1.96"
+            }
+        },
+        {
+            "viewId": "466111715",
+            "poseId": "466111715",
+            "frameId": "137",
+            "intrinsicId": "3437970772",
+            "path": "D:\/ly\/stage3\/gun11\/output png\/output_0137.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "oiio:ColorSpace": "Gamma2",
+                "oiio:Gamma": "1.96"
+            }
+        },
+        {
+            "viewId": "520543702",
+            "poseId": "520543702",
+            "frameId": "131",
+            "intrinsicId": "3437970772",
+            "path": "D:\/ly\/stage3\/gun11\/output png\/output_0131.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "oiio:ColorSpace": "Gamma2",
+                "oiio:Gamma": "1.96"
+            }
+        },
+        {
+            "viewId": "520641448",
+            "poseId": "520641448",
+            "frameId": "130",
+            "intrinsicId": "3437970772",
+            "path": "D:\/ly\/stage3\/gun11\/output png\/output_0130.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "oiio:ColorSpace": "Gamma2",
+                "oiio:Gamma": "1.96"
+            }
+        },
+        {
+            "viewId": "527105644",
+            "poseId": "527105644",
+            "frameId": "132",
+            "intrinsicId": "3437970772",
+            "path": "D:\/ly\/stage3\/gun11\/output png\/output_0132.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "oiio:ColorSpace": "Gamma2",
+                "oiio:Gamma": "1.96"
+            }
+        },
+        {
+            "viewId": "977463366",
+            "poseId": "977463366",
+            "frameId": "30",
+            "intrinsicId": "3437970772",
+            "path": "D:\/ly\/stage3\/gun11\/output png\/output_0030.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "oiio:ColorSpace": "Gamma2",
+                "oiio:Gamma": "1.96"
+            }
+        },
+        {
+            "viewId": "978679606",
+            "poseId": "978679606",
+            "frameId": "31",
+            "intrinsicId": "3437970772",
+            "path": "D:\/ly\/stage3\/gun11\/output png\/output_0031.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "oiio:ColorSpace": "Gamma2",
+                "oiio:Gamma": "1.96"
+            }
+        },
+        {
+            "viewId": "996447891",
+            "poseId": "996447891",
+            "frameId": "88",
+            "intrinsicId": "3437970772",
+            "path": "D:\/ly\/stage3\/gun11\/output png\/output_0088.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "oiio:ColorSpace": "Gamma2",
+                "oiio:Gamma": "1.96"
+            }
+        },
+        {
+            "viewId": "1033459250",
+            "poseId": "1033459250",
+            "frameId": "32",
+            "intrinsicId": "3437970772",
+            "path": "D:\/ly\/stage3\/gun11\/output png\/output_0032.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "oiio:ColorSpace": "Gamma2",
+                "oiio:Gamma": "1.96"
+            }
+        },
+        {
+            "viewId": "1035244618",
+            "poseId": "1035244618",
+            "frameId": "33",
+            "intrinsicId": "3437970772",
+            "path": "D:\/ly\/stage3\/gun11\/output png\/output_0033.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "oiio:ColorSpace": "Gamma2",
+                "oiio:Gamma": "1.96"
+            }
+        },
+        {
+            "viewId": "1221813292",
+            "poseId": "1221813292",
+            "frameId": "92",
+            "intrinsicId": "3437970772",
+            "path": "D:\/ly\/stage3\/gun11\/output png\/output_0092.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "oiio:ColorSpace": "Gamma2",
+                "oiio:Gamma": "1.96"
+            }
+        },
+        {
+            "viewId": "1222112592",
+            "poseId": "1222112592",
+            "frameId": "126",
+            "intrinsicId": "3437970772",
+            "path": "D:\/ly\/stage3\/gun11\/output png\/output_0126.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "oiio:ColorSpace": "Gamma2",
+                "oiio:Gamma": "1.96"
+            }
+        },
+        {
+            "viewId": "1242912901",
+            "poseId": "1242912901",
+            "frameId": "128",
+            "intrinsicId": "3437970772",
+            "path": "D:\/ly\/stage3\/gun11\/output png\/output_0128.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "oiio:ColorSpace": "Gamma2",
+                "oiio:Gamma": "1.96"
+            }
+        },
+        {
+            "viewId": "1245772373",
+            "poseId": "1245772373",
+            "frameId": "129",
+            "intrinsicId": "3437970772",
+            "path": "D:\/ly\/stage3\/gun11\/output png\/output_0129.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "oiio:ColorSpace": "Gamma2",
+                "oiio:Gamma": "1.96"
+            }
+        },
+        {
+            "viewId": "1308827016",
+            "poseId": "1308827016",
+            "frameId": "95",
+            "intrinsicId": "3437970772",
+            "path": "D:\/ly\/stage3\/gun11\/output png\/output_0095.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "oiio:ColorSpace": "Gamma2",
+                "oiio:Gamma": "1.96"
+            }
+        },
+        {
+            "viewId": "1309695247",
+            "poseId": "1309695247",
+            "frameId": "99",
+            "intrinsicId": "3437970772",
+            "path": "D:\/ly\/stage3\/gun11\/output png\/output_0099.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "oiio:ColorSpace": "Gamma2",
+                "oiio:Gamma": "1.96"
+            }
+        },
+        {
+            "viewId": "1318639942",
+            "poseId": "1318639942",
+            "frameId": "94",
+            "intrinsicId": "3437970772",
+            "path": "D:\/ly\/stage3\/gun11\/output png\/output_0094.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "oiio:ColorSpace": "Gamma2",
+                "oiio:Gamma": "1.96"
+            }
+        },
+        {
+            "viewId": "1341977023",
+            "poseId": "1341977023",
+            "frameId": "98",
+            "intrinsicId": "3437970772",
+            "path": "D:\/ly\/stage3\/gun11\/output png\/output_0098.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "oiio:ColorSpace": "Gamma2",
+                "oiio:Gamma": "1.96"
+            }
+        },
+        {
+            "viewId": "1351244161",
+            "poseId": "1351244161",
+            "frameId": "90",
+            "intrinsicId": "3437970772",
+            "path": "D:\/ly\/stage3\/gun11\/output png\/output_0090.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "oiio:ColorSpace": "Gamma2",
+                "oiio:Gamma": "1.96"
+            }
+        },
+        {
+            "viewId": "1573027797",
+            "poseId": "1573027797",
+            "frameId": "16",
+            "intrinsicId": "3437970772",
+            "path": "D:\/ly\/stage3\/gun11\/output png\/output_0016.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "oiio:ColorSpace": "Gamma2",
+                "oiio:Gamma": "1.96"
+            }
+        },
+        {
+            "viewId": "1614021945",
+            "poseId": "1614021945",
+            "frameId": "146",
+            "intrinsicId": "3437970772",
+            "path": "D:\/ly\/stage3\/gun11\/output png\/output_0146.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "oiio:ColorSpace": "Gamma2",
+                "oiio:Gamma": "1.96"
+            }
+        },
+        {
+            "viewId": "2000851169",
+            "poseId": "2000851169",
+            "frameId": "141",
+            "intrinsicId": "3437970772",
+            "path": "D:\/ly\/stage3\/gun11\/output png\/output_0141.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "oiio:ColorSpace": "Gamma2",
+                "oiio:Gamma": "1.96"
+            }
+        },
+        {
+            "viewId": "2008743663",
+            "poseId": "2008743663",
+            "frameId": "140",
+            "intrinsicId": "3437970772",
+            "path": "D:\/ly\/stage3\/gun11\/output png\/output_0140.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "oiio:ColorSpace": "Gamma2",
+                "oiio:Gamma": "1.96"
+            }
+        },
+        {
+            "viewId": "2124494862",
+            "poseId": "2124494862",
+            "frameId": "19",
+            "intrinsicId": "3437970772",
+            "path": "D:\/ly\/stage3\/gun11\/output png\/output_0019.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "oiio:ColorSpace": "Gamma2",
+                "oiio:Gamma": "1.96"
+            }
+        },
+        {
+            "viewId": "2129678330",
+            "poseId": "2129678330",
+            "frameId": "144",
+            "intrinsicId": "3437970772",
+            "path": "D:\/ly\/stage3\/gun11\/output png\/output_0144.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "oiio:ColorSpace": "Gamma2",
+                "oiio:Gamma": "1.96"
+            }
+        },
+        {
+            "viewId": "2131854708",
+            "poseId": "2131854708",
+            "frameId": "17",
+            "intrinsicId": "3437970772",
+            "path": "D:\/ly\/stage3\/gun11\/output png\/output_0017.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "oiio:ColorSpace": "Gamma2",
+                "oiio:Gamma": "1.96"
+            }
+        },
+        {
+            "viewId": "2132052518",
+            "poseId": "2132052518",
+            "frameId": "145",
+            "intrinsicId": "3437970772",
+            "path": "D:\/ly\/stage3\/gun11\/output png\/output_0145.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "oiio:ColorSpace": "Gamma2",
+                "oiio:Gamma": "1.96"
+            }
+        }
+    ],
+    "intrinsics": [
+        {
+            "intrinsicId": "3437970772",
+            "width": "1920",
+            "height": "1080",
+            "sensorWidth": "36",
+            "sensorHeight": "20.25",
+            "serialNumber": "D:\/ly\/stage3\/gun11\/output png",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "initialFocalLength": "-1",
+            "focalLength": "43.45584412271571",
+            "pixelRatio": "1",
+            "pixelRatioLocked": "true",
+            "principalPoint": [
+                "0",
+                "0"
+            ],
+            "distortionInitializationMode": "none",
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "undistortionOffset": [
+                "0",
+                "0"
+            ],
+            "undistortionParams": "",
+            "locked": "false"
+        }
+    ]
+}

@@ -1,0 +1,227 @@
+[2024-09-10 13:29:05.156170] [0x0000dc80] [trace]   Embedded OCIO configuration file: 'D:\ly\stage3\Meshroom-2023.2.0-win64\Meshroom-2023.2.0\aliceVision/share/aliceVision/config.ocio' found.
+Program called with the following parameters:
+ * contrastFiltering =  Unknown Type "enum aliceVision::feature::EFeatureConstrastFiltering"
+ * describerPreset =  Unknown Type "enum aliceVision::feature::EImageDescriberPreset"
+ * describerQuality =  Unknown Type "enum aliceVision::feature::EFeatureQuality"
+ * describerTypes = "sift,akaze"
+ * forceCpuExtraction = 1
+ * gridFiltering = 1
+ * input = "D:/ly/stage3/gun11/MeshroomCache/CameraInit/1262a38002bb6e009b188d7a3de117f2b6638a60/cameraInit.sfm"
+ * masksFolder = "D:/ly/stage3/gun11/MeshroomCache/ImageMasking/6652765ae0e64ac8ea6f3eab62f2d72120043a4a"
+ * maxCoresAvailable =  Unknown Type "unsigned int" (default)
+ * maxMemoryAvailable = 18446744073709551615 (default)
+ * maxNbFeatures = 0 (default)
+ * maxThreads = 0
+ * output = "D:/ly/stage3/gun11/MeshroomCache/FeatureExtraction/f5786643c6215c1298cf112bebd8cf57624dd8ac"
+ * rangeSize = 40
+ * rangeStart = 0
+ * relativePeakThreshold = 0.02 (default)
+ * verboseLevel = "info"
+ * workingColorSpace =  Unknown Type "enum aliceVision::image::EImageColorSpace"
+
+Hardware : 
+	Detected core count : 16
+	OpenMP will use 16 cores
+	Detected available memory : 5651 Mo
+
+[13:29:05.160178][info] CUDA-Enabled GPU.
+Device information:
+	- id:                      0
+	- name:                    NVIDIA GeForce RTX 2060
+	- compute capability:      7.5
+	- clock frequency (kHz):   1350000
+	- total device memory:     6143 MB 
+	- device memory available: 5130 MB 
+	- per-block shared memory: 49152
+	- warp size:               32
+	- max threads per block:   1024
+	- max threads per SM(X):   1024
+	- max block sizes:         {1024,1024,64}
+	- max grid sizes:          {2147483647,65535,65535}
+	- max 2D array texture:    {131072,65536}
+	- max 3D array texture:    {16384,16384,16384}
+	- max 2D linear texture:   {131072,65000,2097120}
+	- max 2D layered texture:  {32768,32768,2048}
+	- number of SM(x)s:        30
+	- registers per SM(x):     65536
+	- registers per block:     65536
+	- concurrent kernels:      yes
+	- mapping host memory:     yes
+	- unified addressing:      yes
+	- texture alignment:       512 byte
+	- pitch alignment:         32 byte
+CUDA build version: 11.6
+0
+[13:29:05.269173][info] Supported CUDA-Enabled GPU detected.
+[13:29:05.271171][info] Job max memory consumption for one image: 2370 MB
+[13:29:05.271171][info] Memory information: 
+	- Total RAM:     15.8392 GB
+	- Free RAM:      5.45684 GB
+	- Available RAM: 5.45684 GB
+	- Total swap:    131072 GB
+	- Free swap:     131035 GB
+[13:29:05.271171][info] Max number of threads regarding memory usage: 2
+[13:29:05.271171][warning] More than half of the RAM is used by other applications. It would be more efficient to close them.
+[13:29:05.271171][warning]  => 10 GB are used by other applications for a total RAM capacity of 16 GB.
+[13:29:05.271171][info] # threads for extraction: 2
+[13:29:05.435177][info] Extracting sift features from view 'D:/ly/stage3/gun11/output png/output_0026.png' [cpu]
+[13:29:05.440173][info] Extracting sift features from view 'D:/ly/stage3/gun11/output png/output_0132.png' [cpu]
+[13:29:09.736172][info]       3274 sift features extracted from view 'D:/ly/stage3/gun11/output png/output_0026.png'
+[13:29:09.736172][info] Extracting akaze features from view 'D:/ly/stage3/gun11/output png/output_0026.png' [cpu]
+[13:29:09.788172][info]       3111 sift features extracted from view 'D:/ly/stage3/gun11/output png/output_0132.png'
+[13:29:09.788172][info] Extracting akaze features from view 'D:/ly/stage3/gun11/output png/output_0132.png' [cpu]
+[13:29:10.740172][info]       877 akaze features extracted from view 'D:/ly/stage3/gun11/output png/output_0026.png'
+[13:29:10.803171][info]       827 akaze features extracted from view 'D:/ly/stage3/gun11/output png/output_0132.png'
+[13:29:10.904188][info] Extracting sift features from view 'D:/ly/stage3/gun11/output png/output_0104.png' [cpu]
+[13:29:10.992173][info] Extracting sift features from view 'D:/ly/stage3/gun11/output png/output_0030.png' [cpu]
+[13:29:14.916171][info]       3192 sift features extracted from view 'D:/ly/stage3/gun11/output png/output_0104.png'
+[13:29:14.916171][info] Extracting akaze features from view 'D:/ly/stage3/gun11/output png/output_0104.png' [cpu]
+[13:29:14.953170][info]       3256 sift features extracted from view 'D:/ly/stage3/gun11/output png/output_0030.png'
+[13:29:14.953170][info] Extracting akaze features from view 'D:/ly/stage3/gun11/output png/output_0030.png' [cpu]
+[13:29:15.836173][info]       853 akaze features extracted from view 'D:/ly/stage3/gun11/output png/output_0104.png'
+[13:29:15.879170][info]       943 akaze features extracted from view 'D:/ly/stage3/gun11/output png/output_0030.png'
+[13:29:16.009171][info] Extracting sift features from view 'D:/ly/stage3/gun11/output png/output_0029.png' [cpu]
+[13:29:16.059170][info] Extracting sift features from view 'D:/ly/stage3/gun11/output png/output_0031.png' [cpu]
+[13:29:20.031172][info]       3072 sift features extracted from view 'D:/ly/stage3/gun11/output png/output_0029.png'
+[13:29:20.032170][info] Extracting akaze features from view 'D:/ly/stage3/gun11/output png/output_0029.png' [cpu]
+[13:29:20.052172][info]       3309 sift features extracted from view 'D:/ly/stage3/gun11/output png/output_0031.png'
+[13:29:20.052172][info] Extracting akaze features from view 'D:/ly/stage3/gun11/output png/output_0031.png' [cpu]
+[13:29:20.949170][info]       842 akaze features extracted from view 'D:/ly/stage3/gun11/output png/output_0029.png'
+[13:29:20.970171][info]       939 akaze features extracted from view 'D:/ly/stage3/gun11/output png/output_0031.png'
+[13:29:21.123173][info] Extracting sift features from view 'D:/ly/stage3/gun11/output png/output_0028.png' [cpu]
+[13:29:21.128186][info] Extracting sift features from view 'D:/ly/stage3/gun11/output png/output_0088.png' [cpu]
+[13:29:25.077295][info]       2847 sift features extracted from view 'D:/ly/stage3/gun11/output png/output_0088.png'
+[13:29:25.077295][info] Extracting akaze features from view 'D:/ly/stage3/gun11/output png/output_0088.png' [cpu]
+[13:29:25.088296][info]       2950 sift features extracted from view 'D:/ly/stage3/gun11/output png/output_0028.png'
+[13:29:25.088296][info] Extracting akaze features from view 'D:/ly/stage3/gun11/output png/output_0028.png' [cpu]
+[13:29:26.065295][info]       963 akaze features extracted from view 'D:/ly/stage3/gun11/output png/output_0088.png'
+[13:29:26.077294][info]       920 akaze features extracted from view 'D:/ly/stage3/gun11/output png/output_0028.png'
+[13:29:26.239295][info] Extracting sift features from view 'D:/ly/stage3/gun11/output png/output_0032.png' [cpu]
+[13:29:26.271316][info] Extracting sift features from view 'D:/ly/stage3/gun11/output png/output_0024.png' [cpu]
+[13:29:30.342296][info]       3403 sift features extracted from view 'D:/ly/stage3/gun11/output png/output_0032.png'
+[13:29:30.342296][info] Extracting akaze features from view 'D:/ly/stage3/gun11/output png/output_0032.png' [cpu]
+[13:29:30.359305][info]       3811 sift features extracted from view 'D:/ly/stage3/gun11/output png/output_0024.png'
+[13:29:30.359305][info] Extracting akaze features from view 'D:/ly/stage3/gun11/output png/output_0024.png' [cpu]
+[13:29:31.425294][info]       985 akaze features extracted from view 'D:/ly/stage3/gun11/output png/output_0032.png'
+[13:29:31.442295][info]       993 akaze features extracted from view 'D:/ly/stage3/gun11/output png/output_0024.png'
+[13:29:31.620298][info] Extracting sift features from view 'D:/ly/stage3/gun11/output png/output_0033.png' [cpu]
+[13:29:31.681297][info] Extracting sift features from view 'D:/ly/stage3/gun11/output png/output_0025.png' [cpu]
+[13:29:35.751296][info]       3246 sift features extracted from view 'D:/ly/stage3/gun11/output png/output_0033.png'
+[13:29:35.751296][info] Extracting akaze features from view 'D:/ly/stage3/gun11/output png/output_0033.png' [cpu]
+[13:29:35.952298][info]       3635 sift features extracted from view 'D:/ly/stage3/gun11/output png/output_0025.png'
+[13:29:35.953294][info] Extracting akaze features from view 'D:/ly/stage3/gun11/output png/output_0025.png' [cpu]
+[13:29:36.792294][info]       810 akaze features extracted from view 'D:/ly/stage3/gun11/output png/output_0033.png'
+[13:29:36.951314][info] Extracting sift features from view 'D:/ly/stage3/gun11/output png/output_0092.png' [cpu]
+[13:29:37.042296][info]       923 akaze features extracted from view 'D:/ly/stage3/gun11/output png/output_0025.png'
+[13:29:37.176296][info] Extracting sift features from view 'D:/ly/stage3/gun11/output png/output_0022.png' [cpu]
+[13:29:40.923294][info]       2674 sift features extracted from view 'D:/ly/stage3/gun11/output png/output_0092.png'
+[13:29:40.923294][info] Extracting akaze features from view 'D:/ly/stage3/gun11/output png/output_0092.png' [cpu]
+[13:29:41.198298][info]       4104 sift features extracted from view 'D:/ly/stage3/gun11/output png/output_0022.png'
+[13:29:41.198298][info] Extracting akaze features from view 'D:/ly/stage3/gun11/output png/output_0022.png' [cpu]
+[13:29:41.837297][info]       804 akaze features extracted from view 'D:/ly/stage3/gun11/output png/output_0092.png'
+[13:29:41.994296][info] Extracting sift features from view 'D:/ly/stage3/gun11/output png/output_0126.png' [cpu]
+[13:29:42.139294][info]       1039 akaze features extracted from view 'D:/ly/stage3/gun11/output png/output_0022.png'
+[13:29:42.301298][info] Extracting sift features from view 'D:/ly/stage3/gun11/output png/output_0023.png' [cpu]
+[13:29:46.271827][info]       3477 sift features extracted from view 'D:/ly/stage3/gun11/output png/output_0126.png'
+[13:29:46.271827][info] Extracting akaze features from view 'D:/ly/stage3/gun11/output png/output_0126.png' [cpu]
+[13:29:46.502828][info]       4034 sift features extracted from view 'D:/ly/stage3/gun11/output png/output_0023.png'
+[13:29:46.503827][info] Extracting akaze features from view 'D:/ly/stage3/gun11/output png/output_0023.png' [cpu]
+[13:29:47.238828][info]       1126 akaze features extracted from view 'D:/ly/stage3/gun11/output png/output_0126.png'
+[13:29:47.381827][info] Extracting sift features from view 'D:/ly/stage3/gun11/output png/output_0128.png' [cpu]
+[13:29:47.506827][info]       1067 akaze features extracted from view 'D:/ly/stage3/gun11/output png/output_0023.png'
+[13:29:47.668829][info] Extracting sift features from view 'D:/ly/stage3/gun11/output png/output_0102.png' [cpu]
+[13:29:51.835827][info]       3097 sift features extracted from view 'D:/ly/stage3/gun11/output png/output_0128.png'
+[13:29:51.835827][info] Extracting akaze features from view 'D:/ly/stage3/gun11/output png/output_0128.png' [cpu]
+[13:29:51.999826][info]       3036 sift features extracted from view 'D:/ly/stage3/gun11/output png/output_0102.png'
+[13:29:51.999826][info] Extracting akaze features from view 'D:/ly/stage3/gun11/output png/output_0102.png' [cpu]
+[13:29:52.871827][info]       958 akaze features extracted from view 'D:/ly/stage3/gun11/output png/output_0128.png'
+[13:29:53.020828][info] Extracting sift features from view 'D:/ly/stage3/gun11/output png/output_0129.png' [cpu]
+[13:29:53.064827][info]       908 akaze features extracted from view 'D:/ly/stage3/gun11/output png/output_0102.png'
+[13:29:53.216828][info] Extracting sift features from view 'D:/ly/stage3/gun11/output png/output_0103.png' [cpu]
+[13:29:56.950826][info]       3433 sift features extracted from view 'D:/ly/stage3/gun11/output png/output_0129.png'
+[13:29:56.950826][info] Extracting akaze features from view 'D:/ly/stage3/gun11/output png/output_0129.png' [cpu]
+[13:29:57.043826][info]       3092 sift features extracted from view 'D:/ly/stage3/gun11/output png/output_0103.png'
+[13:29:57.043826][info] Extracting akaze features from view 'D:/ly/stage3/gun11/output png/output_0103.png' [cpu]
+[13:29:57.879827][info]       1022 akaze features extracted from view 'D:/ly/stage3/gun11/output png/output_0129.png'
+[13:29:57.958826][info]       913 akaze features extracted from view 'D:/ly/stage3/gun11/output png/output_0103.png'
+[13:29:58.020831][info] Extracting sift features from view 'D:/ly/stage3/gun11/output png/output_0095.png' [cpu]
+[13:29:58.128825][info] Extracting sift features from view 'D:/ly/stage3/gun11/output png/output_0021.png' [cpu]
+[13:30:01.875825][info]       2570 sift features extracted from view 'D:/ly/stage3/gun11/output png/output_0095.png'
+[13:30:01.875825][info] Extracting akaze features from view 'D:/ly/stage3/gun11/output png/output_0095.png' [cpu]
+[13:30:02.018824][info]       3434 sift features extracted from view 'D:/ly/stage3/gun11/output png/output_0021.png'
+[13:30:02.018824][info] Extracting akaze features from view 'D:/ly/stage3/gun11/output png/output_0021.png' [cpu]
+[13:30:02.749826][info]       689 akaze features extracted from view 'D:/ly/stage3/gun11/output png/output_0095.png'
+[13:30:02.898827][info] Extracting sift features from view 'D:/ly/stage3/gun11/output png/output_0099.png' [cpu]
+[13:30:02.927831][info]       964 akaze features extracted from view 'D:/ly/stage3/gun11/output png/output_0021.png'
+[13:30:03.069837][info] Extracting sift features from view 'D:/ly/stage3/gun11/output png/output_0100.png' [cpu]
+[13:30:06.754825][info]       2728 sift features extracted from view 'D:/ly/stage3/gun11/output png/output_0099.png'
+[13:30:06.754825][info] Extracting akaze features from view 'D:/ly/stage3/gun11/output png/output_0099.png' [cpu]
+[13:30:06.863826][info]       2724 sift features extracted from view 'D:/ly/stage3/gun11/output png/output_0100.png'
+[13:30:06.863826][info] Extracting akaze features from view 'D:/ly/stage3/gun11/output png/output_0100.png' [cpu]
+[13:30:07.673830][info]       779 akaze features extracted from view 'D:/ly/stage3/gun11/output png/output_0099.png'
+[13:30:07.800827][info]       817 akaze features extracted from view 'D:/ly/stage3/gun11/output png/output_0100.png'
+[13:30:07.810827][info] Extracting sift features from view 'D:/ly/stage3/gun11/output png/output_0094.png' [cpu]
+[13:30:07.939825][info] Extracting sift features from view 'D:/ly/stage3/gun11/output png/output_0107.png' [cpu]
+[13:30:11.775354][info]       2437 sift features extracted from view 'D:/ly/stage3/gun11/output png/output_0094.png'
+[13:30:11.775354][info] Extracting akaze features from view 'D:/ly/stage3/gun11/output png/output_0094.png' [cpu]
+[13:30:11.845348][info]       3603 sift features extracted from view 'D:/ly/stage3/gun11/output png/output_0107.png'
+[13:30:11.845348][info] Extracting akaze features from view 'D:/ly/stage3/gun11/output png/output_0107.png' [cpu]
+[13:30:12.676348][info]       669 akaze features extracted from view 'D:/ly/stage3/gun11/output png/output_0094.png'
+[13:30:12.793351][info]       924 akaze features extracted from view 'D:/ly/stage3/gun11/output png/output_0107.png'
+[13:30:12.820348][info] Extracting sift features from view 'D:/ly/stage3/gun11/output png/output_0098.png' [cpu]
+[13:30:12.947353][info] Extracting sift features from view 'D:/ly/stage3/gun11/output png/output_0139.png' [cpu]
+[13:30:16.876349][info]       2500 sift features extracted from view 'D:/ly/stage3/gun11/output png/output_0098.png'
+[13:30:16.876349][info] Extracting akaze features from view 'D:/ly/stage3/gun11/output png/output_0098.png' [cpu]
+[13:30:17.009366][info]       3040 sift features extracted from view 'D:/ly/stage3/gun11/output png/output_0139.png'
+[13:30:17.009366][info] Extracting akaze features from view 'D:/ly/stage3/gun11/output png/output_0139.png' [cpu]
+[13:30:17.839348][info]       740 akaze features extracted from view 'D:/ly/stage3/gun11/output png/output_0098.png'
+[13:30:17.986349][info] Extracting sift features from view 'D:/ly/stage3/gun11/output png/output_0090.png' [cpu]
+[13:30:18.026350][info]       925 akaze features extracted from view 'D:/ly/stage3/gun11/output png/output_0139.png'
+[13:30:18.184353][info] Extracting sift features from view 'D:/ly/stage3/gun11/output png/output_0134.png' [cpu]
+[13:30:21.950348][info]       2741 sift features extracted from view 'D:/ly/stage3/gun11/output png/output_0090.png'
+[13:30:21.950348][info] Extracting akaze features from view 'D:/ly/stage3/gun11/output png/output_0090.png' [cpu]
+[13:30:22.176352][info]       2758 sift features extracted from view 'D:/ly/stage3/gun11/output png/output_0134.png'
+[13:30:22.176352][info] Extracting akaze features from view 'D:/ly/stage3/gun11/output png/output_0134.png' [cpu]
+[13:30:23.028350][info]       953 akaze features extracted from view 'D:/ly/stage3/gun11/output png/output_0090.png'
+[13:30:23.191355][info] Extracting sift features from view 'D:/ly/stage3/gun11/output png/output_0016.png' [cpu]
+[13:30:23.324352][info]       833 akaze features extracted from view 'D:/ly/stage3/gun11/output png/output_0134.png'
+[13:30:23.483375][info] Extracting sift features from view 'D:/ly/stage3/gun11/output png/output_0133.png' [cpu]
+[13:30:27.311349][info]       2179 sift features extracted from view 'D:/ly/stage3/gun11/output png/output_0016.png'
+[13:30:27.311349][info] Extracting akaze features from view 'D:/ly/stage3/gun11/output png/output_0016.png' [cpu]
+[13:30:27.844349][info]       2710 sift features extracted from view 'D:/ly/stage3/gun11/output png/output_0133.png'
+[13:30:27.844349][info] Extracting akaze features from view 'D:/ly/stage3/gun11/output png/output_0133.png' [cpu]
+[13:30:28.274348][info]       640 akaze features extracted from view 'D:/ly/stage3/gun11/output png/output_0016.png'
+[13:30:28.449350][info] Extracting sift features from view 'D:/ly/stage3/gun11/output png/output_0146.png' [cpu]
+[13:30:28.837347][info]       771 akaze features extracted from view 'D:/ly/stage3/gun11/output png/output_0133.png'
+[13:30:28.970351][info] Extracting sift features from view 'D:/ly/stage3/gun11/output png/output_0136.png' [cpu]
+[13:30:33.208353][info]       2524 sift features extracted from view 'D:/ly/stage3/gun11/output png/output_0146.png'
+[13:30:33.208353][info] Extracting akaze features from view 'D:/ly/stage3/gun11/output png/output_0146.png' [cpu]
+[13:30:33.470375][info]       3021 sift features extracted from view 'D:/ly/stage3/gun11/output png/output_0136.png'
+[13:30:33.470375][info] Extracting akaze features from view 'D:/ly/stage3/gun11/output png/output_0136.png' [cpu]
+[13:30:34.348353][info]       869 akaze features extracted from view 'D:/ly/stage3/gun11/output png/output_0146.png'
+[13:30:34.504348][info] Extracting sift features from view 'D:/ly/stage3/gun11/output png/output_0141.png' [cpu]
+[13:30:34.638349][info]       912 akaze features extracted from view 'D:/ly/stage3/gun11/output png/output_0136.png'
+[13:30:34.832355][info] Extracting sift features from view 'D:/ly/stage3/gun11/output png/output_0137.png' [cpu]
+[13:30:38.847349][info]       3233 sift features extracted from view 'D:/ly/stage3/gun11/output png/output_0141.png'
+[13:30:38.847349][info] Extracting akaze features from view 'D:/ly/stage3/gun11/output png/output_0141.png' [cpu]
+[13:30:39.061348][info]       3180 sift features extracted from view 'D:/ly/stage3/gun11/output png/output_0137.png'
+[13:30:39.061348][info] Extracting akaze features from view 'D:/ly/stage3/gun11/output png/output_0137.png' [cpu]
+[13:30:39.848350][info]       893 akaze features extracted from view 'D:/ly/stage3/gun11/output png/output_0141.png'
+[13:30:39.997348][info] Extracting sift features from view 'D:/ly/stage3/gun11/output png/output_0140.png' [cpu]
+[13:30:40.098349][info]       1039 akaze features extracted from view 'D:/ly/stage3/gun11/output png/output_0137.png'
+[13:30:40.228347][info] Extracting sift features from view 'D:/ly/stage3/gun11/output png/output_0131.png' [cpu]
+[13:30:44.267351][info]       2626 sift features extracted from view 'D:/ly/stage3/gun11/output png/output_0140.png'
+[13:30:44.268352][info] Extracting akaze features from view 'D:/ly/stage3/gun11/output png/output_0140.png' [cpu]
+[13:30:44.438350][info]       3178 sift features extracted from view 'D:/ly/stage3/gun11/output png/output_0131.png'
+[13:30:44.439349][info] Extracting akaze features from view 'D:/ly/stage3/gun11/output png/output_0131.png' [cpu]
+[13:30:45.179348][info]       846 akaze features extracted from view 'D:/ly/stage3/gun11/output png/output_0140.png'
+[13:30:45.330349][info] Extracting sift features from view 'D:/ly/stage3/gun11/output png/output_0019.png' [cpu]
+[13:30:45.409349][info]       912 akaze features extracted from view 'D:/ly/stage3/gun11/output png/output_0131.png'
+[13:30:45.555353][info] Extracting sift features from view 'D:/ly/stage3/gun11/output png/output_0130.png' [cpu]
+[13:30:49.322751][info]       3249 sift features extracted from view 'D:/ly/stage3/gun11/output png/output_0019.png'
+[13:30:49.322751][info] Extracting akaze features from view 'D:/ly/stage3/gun11/output png/output_0019.png' [cpu]
+[13:30:49.547754][info]       3450 sift features extracted from view 'D:/ly/stage3/gun11/output png/output_0130.png'
+[13:30:49.547754][info] Extracting akaze features from view 'D:/ly/stage3/gun11/output png/output_0130.png' [cpu]
+[13:30:50.285755][info]       827 akaze features extracted from view 'D:/ly/stage3/gun11/output png/output_0019.png'
+[13:30:50.460752][info]       1060 akaze features extracted from view 'D:/ly/stage3/gun11/output png/output_0130.png'
+[13:30:50.461752][info] Task done in (s): 105.192000

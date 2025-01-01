@@ -1,0 +1,242 @@
+{
+    "version": [
+        "1",
+        "2",
+        "4"
+    ],
+    "featuresFolders": [
+        "..\\..\\FeatureExtraction\\fcc350a26290f5e4ad46fc677caa69adf64d437b"
+    ],
+    "matchesFolders": [
+        "..\\..\\FeatureMatching\\179f9f788931503adcf5891e65c82e51e0136dee"
+    ],
+    "views": [
+        {
+            "viewId": "446678479",
+            "poseId": "446678479",
+            "frameId": "6",
+            "intrinsicId": "3293772986",
+            "resectionId": "2",
+            "path": "D:\/ly\/stage3\/gun11\/output\/output_0006.jpeg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ImageDescription": "Lavc61.10.100",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "462450697",
+            "poseId": "462450697",
+            "frameId": "9",
+            "intrinsicId": "3293772986",
+            "path": "D:\/ly\/stage3\/gun11\/output\/output_0009.jpeg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ImageDescription": "Lavc61.10.100",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "468034491",
+            "poseId": "468034491",
+            "frameId": "8",
+            "intrinsicId": "3293772986",
+            "resectionId": "0",
+            "path": "D:\/ly\/stage3\/gun11\/output\/output_0008.jpeg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ImageDescription": "Lavc61.10.100",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1229031559",
+            "poseId": "1229031559",
+            "frameId": "10",
+            "intrinsicId": "3293772986",
+            "resectionId": "1",
+            "path": "D:\/ly\/stage3\/gun11\/output\/output_0010.jpeg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ImageDescription": "Lavc61.10.100",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1253953133",
+            "poseId": "1253953133",
+            "frameId": "11",
+            "intrinsicId": "3293772986",
+            "path": "D:\/ly\/stage3\/gun11\/output\/output_0011.jpeg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "ImageDescription": "Lavc61.10.100",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        }
+    ],
+    "intrinsics": [
+        {
+            "intrinsicId": "3293772986",
+            "width": "1920",
+            "height": "1080",
+            "sensorWidth": "36",
+            "sensorHeight": "20.25",
+            "serialNumber": "D:\/ly\/stage3\/gun11\/output",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "initialFocalLength": "-1",
+            "focalLength": "30.810075132519103",
+            "pixelRatio": "1",
+            "pixelRatioLocked": "true",
+            "principalPoint": [
+                "-55.40835312472209",
+                "54"
+            ],
+            "distortionInitializationMode": "none",
+            "distortionParams": [
+                "0.10640312058062772",
+                "-0.70502328567170935",
+                "1.4530302387379441"
+            ],
+            "undistortionOffset": [
+                "0",
+                "0"
+            ],
+            "undistortionParams": "",
+            "locked": "false"
+        }
+    ],
+    "poses": [
+        {
+            "poseId": "446678479",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99966215802258862",
+                        "0.024429349195578116",
+                        "0.0088756247950016447",
+                        "-0.024175206042861542",
+                        "0.99932408251918969",
+                        "-0.027693636633078847",
+                        "-0.0095461631248544999",
+                        "0.027469710501938728",
+                        "0.99957705344537262"
+                    ],
+                    "center": [
+                        "-0.014519402640432005",
+                        "0.17982398240655159",
+                        "0.074429522959721384"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "462450697",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99985063399888752",
+                        "0.0062726758103752592",
+                        "-0.01610475799882027",
+                        "-0.0064312646645407002",
+                        "0.99993115488047435",
+                        "-0.0098144961264154916",
+                        "0.016042086112387711",
+                        "0.0099166041354249689",
+                        "0.99982214040077344"
+                    ],
+                    "center": [
+                        "-0.0043684920216226246",
+                        "0.066667412740678028",
+                        "0.28276742412588651"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "468034491",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99991323681558764",
+                        "-0.0050503739579336",
+                        "-0.012166041421084028",
+                        "0.0066458263950457683",
+                        "0.99083747898367147",
+                        "0.13489597189245217",
+                        "0.011373294707402035",
+                        "-0.13496512128756583",
+                        "0.99078507467731425"
+                    ],
+                    "center": [
+                        "0.0011326422247873369",
+                        "-0.16982973634034365",
+                        "0.35676704417669458"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1229031559",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99892345814319239",
+                        "0.041693487606891254",
+                        "-0.020336613838584774",
+                        "-0.044687960580512713",
+                        "0.9825190960277197",
+                        "-0.18071859926423448",
+                        "0.012446322766193021",
+                        "0.18143284992538269",
+                        "0.98332457002637397"
+                    ],
+                    "center": [
+                        "0.020676771611712226",
+                        "0.36446631537885638",
+                        "0.2598990724178471"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1253953133",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99390504235616017",
+                        "0.06615210694426947",
+                        "-0.088185404267561524",
+                        "-0.093850249746999112",
+                        "0.92742358117795698",
+                        "-0.36204644964075988",
+                        "0.057835087978019173",
+                        "0.36811601407964761",
+                        "0.92797936549078897"
+                    ],
+                    "center": [
+                        "0.088726742414998838",
+                        "0.69888415213231381",
+                        "0.47995261978421666"
+                    ]
+                },
+                "locked": "0"
+            }
+        }
+    ]
+}

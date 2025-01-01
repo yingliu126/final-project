@@ -1,0 +1,28 @@
+[2024-09-04 02:14:41.817339] [0x00007ff4] [trace]   Embedded OCIO configuration file: 'D:\ly\stage3\Meshroom-2023.2.0-win64\Meshroom-2023.2.0\aliceVision/share/aliceVision/config.ocio' found.
+Program called with the following parameters:
+ * algorithm =  Unknown Type "enum EAlgorithm"
+ * depthMapExp = ""
+ * depthMapFolder = ""
+ * growRadius = 0
+ * hsvHue = 0.33 (default)
+ * hsvHueRange = 0.1 (default)
+ * hsvMaxSaturation = 1 (default)
+ * hsvMaxValue = 1 (default)
+ * hsvMinSaturation = 0.3 (default)
+ * hsvMinValue = 0.3 (default)
+ * input = "D:/ly/stage3/gun11/MeshroomCache/CameraInit/687b5c9a12a9bf9e49a15e7ae5bc3f644e35b27c/cameraInit.sfm"
+ * invert = 1
+ * maxCoresAvailable =  Unknown Type "unsigned int" (default)
+ * maxMemoryAvailable = 18446744073709551615 (default)
+ * output = "D:/ly/stage3/gun11/MeshroomCache/ImageMasking/97463205e2735f44bfbc56adb995e9b6307ad576"
+ * rangeSize = 40
+ * rangeStart = 0
+ * shrinkRadius = 0
+ * verboseLevel = "info"
+
+Hardware : 
+	Detected core count : 16
+	OpenMP will use 16 cores
+	Detected available memory : 5697 Mo
+
+[02:14:42.203324][info] Task done in (s): 0.380000

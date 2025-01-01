@@ -1,0 +1,32 @@
+[2024-09-04 02:21:54.737262] [0x0000bca8] [trace]   Embedded OCIO configuration file: 'D:\ly\stage3\Meshroom-2023.2.0-win64\Meshroom-2023.2.0\aliceVision/share/aliceVision/config.ocio' found.
+Program called with the following parameters:
+ * computeNormalMaps = 0
+ * depthMapsFolder = "D:/ly/stage3/gun11/MeshroomCache/DepthMap/3e586ab3179b7333f370bc5d6aaa02b7d98aeaeb"
+ * input = "D:/ly/stage3/gun11/MeshroomCache/StructureFromMotion/8141112b1aeb9d6b5d500029988764ad01ffd2ef/sfm.abc"
+ * maxCoresAvailable =  Unknown Type "unsigned int" (default)
+ * maxMemoryAvailable = 18446744073709551615 (default)
+ * maxViewAngle = 70
+ * minNumOfConsistentCams = 3
+ * minNumOfConsistentCamsWithLowSimilarity = 4
+ * minViewAngle = 2
+ * nNearestCams = 10
+ * output = "D:/ly/stage3/gun11/MeshroomCache/DepthMapFilter/643518492d89516c609c7f64c99edb52a351be7c"
+ * pixSizeBall = 0
+ * pixSizeBallWithLowSimilarity = 0
+ * pixToleranceFactor = 2
+ * rangeSize = 10
+ * rangeStart = 10
+ * verboseLevel = "info"
+
+Hardware : 
+	Detected core count : 16
+	OpenMP will use 16 cores
+	Detected available memory : 5402 Mo
+
+[02:21:54.750789][info] Found 1 image dimension(s): 
+[02:21:54.750789][info] 	- [1920x1080]
+[02:21:54.780333][info] Overall maximum dimension: [960x540]
+[02:21:54.780333][info] Filter depth maps.
+[02:21:54.780333][info] Precomputing groups.
+[02:21:55.534614][info] Filtering depth maps.
+[02:21:55.686012][info] Task done in (s): 0.946000

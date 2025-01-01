@@ -1,0 +1,255 @@
+[2024-09-04 02:21:55.819148] [0x0000e10c] [trace]   Embedded OCIO configuration file: 'D:\ly\stage3\Meshroom-2023.2.0-win64\Meshroom-2023.2.0\aliceVision/share/aliceVision/config.ocio' found.
+Program called with the following parameters:
+ * addLandmarksToTheDensePointCloud = 0
+ * angleFactor = 15
+ * colorizeOutput = 0
+ * contributeMarginFactor = 2
+ * densifyNbBack = 0 (default)
+ * densifyNbFront = 0 (default)
+ * densifyScale = 1 (default)
+ * depthMapsFolder = "D:/ly/stage3/gun11/MeshroomCache/DepthMapFilter/643518492d89516c609c7f64c99edb52a351be7c"
+ * estimateSpaceFromSfM = 1
+ * estimateSpaceMinObservationAngle = 10
+ * estimateSpaceMinObservations = 3
+ * exportDebugTetrahedralization = 0
+ * fullWeight = 1
+ * helperPointsGridSize = 10
+ * input = "D:/ly/stage3/gun11/MeshroomCache/StructureFromMotion/8141112b1aeb9d6b5d500029988764ad01ffd2ef/sfm.abc"
+ * invertTetrahedronBasedOnNeighborsNbIterations = 10
+ * maskBorderSize = 1 (default)
+ * maskHelperPointsWeight = 0 (default)
+ * maxCoresAvailable =  Unknown Type "unsigned int" (default)
+ * maxInputPoints = 50000000
+ * maxMemoryAvailable = 18446744073709551615 (default)
+ * maxNbConnectedHelperPoints = 50
+ * maxPoints = 5000000
+ * maxPointsPerVoxel = 1000000
+ * minAngleThreshold = 1
+ * minSolidAngleRatio = 0.2
+ * minStep = 2
+ * minVis = 2 (default)
+ * nPixelSizeBehind = 4
+ * nbSolidAngleFilteringIterations = 2
+ * output = "D:/ly/stage3/gun11/MeshroomCache/Meshing/002cab6d26a5eddcbd2bb10528b6f5accae56c1f/densePointCloud.abc"
+ * outputMesh = "D:/ly/stage3/gun11/MeshroomCache/Meshing/002cab6d26a5eddcbd2bb10528b6f5accae56c1f/mesh.obj"
+ * partitioning =  Unknown Type "enum EPartitioningMode"
+ * pixSizeMarginFinalCoef = 4
+ * pixSizeMarginInitCoef = 2
+ * refineFuse = 1
+ * repartition =  Unknown Type "enum ERepartitionMode"
+ * saveRawDensePointCloud = 0
+ * seed =  Unknown Type "unsigned int"
+ * simFactor = 15
+ * simGaussianSize = 10
+ * simGaussianSizeInit = 10
+ * universePercentile = 0.999 (default)
+ * verboseLevel = "info"
+ * voteFilteringForWeaklySupportedSurfaces = 1
+ * voteMarginFactor = 4
+
+Hardware : 
+	Detected core count : 16
+	OpenMP will use 16 cores
+	Detected available memory : 5403 Mo
+
+[02:21:55.830665][info] Found 1 image dimension(s): 
+[02:21:55.830665][info] 	- [1920x1080]
+[02:21:55.858226][info] Overall maximum dimension: [960x540]
+[02:21:55.858226][warning] repartitionMode: 1
+[02:21:55.858226][warning] partitioningMode: 1
+[02:21:55.858226][info] Meshing mode: multi-resolution, partitioning: single block.
+[02:21:55.858226][info] Estimate space from SfM.
+[02:21:55.860225][info] Estimate space done.
+[02:21:55.860225][info] bounding Box : length: 1.37965, width: 0.644662, height: 0.992267
+[02:21:55.877270][info] Creating dense point cloud.
+[02:21:55.877270][info] fuseFromDepthMaps, maxVertices: 5000000
+[02:21:55.935695][info] simFactor: 15
+[02:21:55.935695][info] nbPixels: 33177600
+[02:21:55.935695][info] maxVertices: 5000000
+[02:21:55.935695][info] step: 2
+[02:21:55.935695][info] realMaxVertices: 8294400
+[02:21:55.935695][info] minVis: 2
+[02:21:55.935695][info] Load depth maps and add points.
+[02:21:57.108602][info] Filter initial 3D points by pixel size to remove duplicates.
+[02:21:57.108602][info] Build nanoflann KdTree index.
+[02:21:58.957407][info] KdTree created for 8294400 points.
+[02:21:58.987006][info] Filtering done.
+[02:21:59.041143][info] 8232726 invalid points removed.
+[02:21:59.064712][info] 3D points loaded and filtered to 61674 points.
+[02:21:59.064712][info] Init visibilities to compute angle scores
+[02:21:59.088807][info] NANOFLANN: KdTree created.
+[02:21:59.094924][info] Create visibilities (0/16)
+[02:21:59.094924][info] Create visibilities (6/16)
+[02:21:59.095930][info] Create visibilities (11/16)
+[02:21:59.307307][info] Create visibilities (7/16)
+[02:21:59.327362][info] Create visibilities (12/16)
+[02:21:59.334883][info] Create visibilities (1/16)
+[02:21:59.496802][info] Create visibilities (8/16)
+[02:21:59.533406][info] Create visibilities (13/16)
+[02:21:59.679786][info] Create visibilities (2/16)
+[02:21:59.712856][info] Create visibilities (9/16)
+[02:21:59.727400][info] Create visibilities (14/16)
+[02:21:59.895316][info] Create visibilities (3/16)
+[02:21:59.902824][info] Create visibilities (10/16)
+[02:21:59.970009][info] Create visibilities (15/16)
+[02:22:00.064798][info] Create visibilities (4/16)
+[02:22:00.206123][info] Create visibilities (5/16)
+[02:22:00.314874][info] Visibilities created.
+[02:22:00.315880][info] Compute max angle per point
+[02:22:00.315880][info] angleFactor: 15
+[02:22:00.323385][info] 0 points filtered based on the number of observations (minVis). 
+[02:22:00.333915][info] 10323 invalid points removed.
+[02:22:00.339922][info] Filter by angle score and sim score
+[02:22:00.339922][info] Build nanoflann KdTree index.
+[02:22:00.354955][info] KdTree created for 51351 points.
+[02:22:00.358965][info] Filtering done.
+[02:22:00.363474][info] 38699 invalid points removed.
+[02:22:00.366490][info] The number of points is below the max number of vertices.
+[02:22:00.366490][info] 3D points loaded and filtered to 12652 points (maxVertices is 5000000).
+[02:22:00.366490][info] Create final visibilities
+[02:22:00.369489][info] NANOFLANN: KdTree created.
+[02:22:00.371492][info] Create visibilities (0/16)
+[02:22:00.372499][info] Create visibilities (6/16)
+[02:22:00.372499][info] Create visibilities (11/16)
+[02:22:00.591138][info] Create visibilities (1/16)
+[02:22:00.599660][info] Create visibilities (12/16)
+[02:22:00.622746][info] Create visibilities (7/16)
+[02:22:00.794159][info] Create visibilities (13/16)
+[02:22:00.811687][info] Create visibilities (2/16)
+[02:22:00.856802][info] Create visibilities (8/16)
+[02:22:00.965067][info] Create visibilities (14/16)
+[02:22:01.009160][info] Create visibilities (3/16)
+[02:22:01.064806][info] Create visibilities (9/16)
+[02:22:01.216653][info] Create visibilities (4/16)
+[02:22:01.232680][info] Create visibilities (15/16)
+[02:22:01.315866][info] Create visibilities (10/16)
+[02:22:01.365995][info] Create visibilities (5/16)
+[02:22:01.557968][info] Visibilities created.
+[02:22:01.557968][warning] fuseFromDepthMaps done: 12652 points created.
+[02:22:01.557968][warning] Add 16 new points for the 16 cameras centers.
+[02:22:01.557968][warning] Add 6 points to prevent singularities
+[02:22:01.558967][warning] Add 1331 new helper points for a 3D grid of 10x10x10.
+[02:22:01.559968][warning] Final dense point cloud: 14005 points.
+[02:22:01.679777][info] 89337 cells created by tetrahedralization.
+[02:22:01.827750][info] coutInvalidVertices: 0
+[02:22:01.827750][info] neighboringCellsPerVertexTmp: 14005
+[02:22:01.828752][info] verticesCoords: 14005
+[02:22:01.909547][info] DelaunayGraphCut::voteFullEmptyScore
+[02:22:01.909547][info] nPixelSizeBehind: 4
+[02:22:01.909547][info] DelaunayGraphCut::displayCellsStats
+[02:22:01.910547][info]  [acc_nrc] min: 0 max: 139 mean: 29.9038 median: 26.3387
+[02:22:01.910547][info]  [acc_camSize] min: 0 max: 16 mean: 6.34309 median: 5.66025
+[02:22:01.926685][info]  [cellScore] min: 0 max: 0 mean: 0 median: 0
+[02:22:01.926685][info]  [cellSWeight] min: 0 max: 0 mean: 0 median: 0
+[02:22:01.926685][info]  [cellTWeight] min: 0 max: 0 mean: 0 median: 0
+[02:22:01.926685][info]  [gEdgeVisWeight] min: 0 max: 0 mean: 0 median: 0
+[02:22:01.926685][info]  [fullnessScore] min: 0 max: 0 mean: 0 median: 0
+[02:22:01.926685][info]  [emptinessScore] min: 0 max: 0 mean: 0 median: 0
+[02:22:01.926685][info]  [on] min: 0 max: 0 mean: 0 median: 0
+[02:22:01.926685][info] countPositiveSWeight: 0
+[02:22:01.926685][info] Computing s-t graph weights.
+fillGraphPartPtRc
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+[02:22:02.173840][info] DelaunayGraphCut::displayCellsStats
+[02:22:02.175847][info]  [acc_nrc] min: 0 max: 139 mean: 29.9038 median: 26.3387
+[02:22:02.175847][info]  [acc_camSize] min: 0 max: 16 mean: 6.34309 median: 5.66025
+[02:22:02.211123][info]  [cellScore] min: -10813 max: 1e+06 mean: 2097.35 median: -3.62309e-06
+[02:22:02.211123][info]  [cellSWeight] min: 0 max: 1e+06 mean: 2137.97 median: 3.44449e-05
+[02:22:02.211123][info]  [cellTWeight] min: 0 max: 10813 mean: 40.6153 median: 4.22294e-06
+[02:22:02.211123][info]  [gEdgeVisWeight] min: 0 max: 703429 mean: 405.272 median: 9.65127e-06
+[02:22:02.211123][info]  [fullnessScore] min: 0 max: 14256 mean: 140.517 median: 0.150015
+[02:22:02.211123][info]  [emptinessScore] min: 0 max: 724509 mean: 1521.24 median: 80.6355
+[02:22:02.211123][info]  [on] min: 0 max: 2085 mean: 40.6153 median: 6.92621e-07
+[02:22:02.211123][info] countPositiveSWeight: 191
+[02:22:02.211123][warning] DelaunayGraphCut::addToInfiniteSw nbInfinitCells: 0
+[02:22:02.211123][info] DelaunayGraphCut::displayCellsStats
+[02:22:02.212630][info]  [acc_nrc] min: 0 max: 139 mean: 29.9038 median: 26.3387
+[02:22:02.212630][info]  [acc_camSize] min: 0 max: 16 mean: 6.34309 median: 5.66025
+[02:22:02.248513][info]  [cellScore] min: -10813 max: 1e+06 mean: 2097.35 median: -3.62309e-06
+[02:22:02.248513][info]  [cellSWeight] min: 0 max: 1e+06 mean: 2137.97 median: 3.44449e-05
+[02:22:02.248513][info]  [cellTWeight] min: 0 max: 10813 mean: 40.6153 median: 4.22294e-06
+[02:22:02.248513][info]  [gEdgeVisWeight] min: 0 max: 703429 mean: 405.272 median: 9.65127e-06
+[02:22:02.248513][info]  [fullnessScore] min: 0 max: 14256 mean: 140.517 median: 0.150015
+[02:22:02.248513][info]  [emptinessScore] min: 0 max: 724509 mean: 1521.24 median: 80.6355
+[02:22:02.248513][info]  [on] min: 0 max: 2085 mean: 40.6153 median: 6.92621e-07
+[02:22:02.248513][info] countPositiveSWeight: 191
+[02:22:02.248513][info] Forcing t-edges
+[02:22:02.392396][info] DelaunayGraphCut::displayCellsStats
+[02:22:02.394404][info]  [acc_nrc] min: 0 max: 139 mean: 29.9038 median: 26.3387
+[02:22:02.394404][info]  [acc_camSize] min: 0 max: 16 mean: 6.34309 median: 5.66025
+[02:22:02.429994][info]  [cellScore] min: -1e+06 max: 1e+06 mean: -1268.16 median: -0.638193
+[02:22:02.429994][info]  [cellSWeight] min: 0 max: 1e+06 mean: 2137.97 median: 3.44449e-05
+[02:22:02.429994][info]  [cellTWeight] min: 0 max: 1e+06 mean: 3406.14 median: 0.555375
+[02:22:02.429994][info]  [gEdgeVisWeight] min: 0 max: 703429 mean: 405.272 median: 9.65127e-06
+[02:22:02.429994][info]  [fullnessScore] min: 0 max: 14256 mean: 140.517 median: 0.150015
+[02:22:02.429994][info]  [emptinessScore] min: 0 max: 724509 mean: 1521.24 median: 80.6355
+[02:22:02.429994][info]  [on] min: 0 max: 1.51939e+06 mean: 427.017 median: 1.77592e-08
+[02:22:02.430994][info] countPositiveSWeight: 191
+[02:22:02.430994][info] Maxflow: start allocation.
+[02:22:02.430994][info] Number of cells: 89337
+[02:22:02.445035][info] Maxflow: add nodes.
+[02:22:02.465116][info] Maxflow: 191 S cells, 89146 T cells.
+[02:22:02.466111][info] Maxflow: add edges.
+[02:22:02.906968][info] Maxflow: clear cells info.
+[02:22:02.906968][info] Maxflow: compute.
+[02:22:02.906968][info] # vertices: 89339, capacity: 89339
+[02:22:02.907969][info] 	- size[5]: 11
+[02:22:02.907969][info] 	- size[7]: 86
+[02:22:02.907969][info] 	- size[9]: 89240
+[02:22:02.907969][info] 	- size[191]: 1
+[02:22:02.907969][info] 	- size[89146]: 1
+[02:22:02.907969][info] 	- capacity[9]: 89337
+[02:22:02.907969][info] 	- capacity[89337]: 2
+[02:22:02.907969][info] Compute boykov_kolmogorov_max_flow.
+[02:22:03.301121][info] Full (white):0
+[02:22:03.301121][info] Empty (black):4
+[02:22:03.301121][info] Undefined (gray):1
+[02:22:03.301121][info] 	- color[0]: 44296
+[02:22:03.301121][info] 	- color[4]: 45043
+[02:22:03.302628][info] totalFlow: 611538
+[02:22:03.302628][info] Maxflow: update full/empty cells status.
+[02:22:03.302628][warning] Maxflow full/nbCells: 44295 / 89337
+[02:22:03.302628][info] Maxflow: done.
+[02:22:03.380118][info] Graph cut post-processing.
+[02:22:03.393850][info] DelaunayGraphCut::removeBubbles: nbBubbles: 0, all empty segments: 1
+[02:22:03.393850][warning] DelaunayGraphCut::removeBubbles: 0 cells changed to full within 89337 cells.
+[02:22:03.393850][info] [2697] Nb full cells: 44295 / 89337 cells.
+[02:22:03.394853][warning] Declare empty around camera centers: 124 cells changed to empty within 89337 cells.
+[02:22:03.401854][info] DelaunayGraphCut::removeDust: Number of full segments: 3
+[02:22:03.401854][warning] DelaunayGraphCut::removeDust: 4 cells changed to empty within 89337 cells.
+[02:22:03.405988][warning] DelaunayGraphCut::invertFullStatusForSmallLabels: 0 cells moved to full, 0 cells moved to empty within 89337 cells.
+[02:22:03.406990][warning] [0] Coherence with neighboring tetrahedrons: 353 cells moved to full, 353 cells moved to empty within 89337 cells.
+[02:22:03.419516][info] computeIsOnSurface nbSurfaceFacets: 19530
+[02:22:03.427042][warning] [0] Check solid angle full/empty ratio on surface vertices: 3263 cells moved to full, 3408 cells moved to empty within 89337 cells.
+[02:22:03.438574][info] computeIsOnSurface nbSurfaceFacets: 17791
+[02:22:03.446092][warning] [1] Check solid angle full/empty ratio on surface vertices: 1532 cells moved to full, 1704 cells moved to empty within 89337 cells.
+[02:22:03.446092][info] Graph cut post-processing done.
+[02:22:03.446092][info] Extract mesh from Graph Cut.
+[02:22:03.457622][info] computeIsOnSurface nbSurfaceFacets: 17056
+[02:22:03.457622][info] # surface facets: 17056
+[02:22:03.457622][info] # vertixes: 14005
+[02:22:03.457622][info] _cellIsFull.size(): 89337
+[02:22:03.472652][info] Extract mesh from Graph Cut done.
+[02:22:03.472652][info] Extract visibilities.
+[02:22:03.476199][info] Extract visibilities done.
+[02:22:03.476199][info] Mesh post-processing.
+[02:22:03.478212][info] remove free points from mesh.
+[02:22:03.483711][info] Mesh Cleaning.
+[02:22:03.542880][info] cleanMesh:
+	- # wrong points: 301
+	- # new points: 309
+[02:22:03.568568][info] cleanMesh:
+	- # wrong points: 1
+	- # new points: 1
+[02:22:03.596354][info] cleanMesh:
+	- # wrong points: 0
+	- # new points: 0
+[02:22:03.609876][info] Mesh post-processing done.
+[02:22:03.645967][info] Save dense point cloud.
+[02:22:03.665998][info] Save obj mesh file.
+[02:22:03.665998][info] OUTPUT MESH D:/ly/stage3/gun11/MeshroomCache/Meshing/002cab6d26a5eddcbd2bb10528b6f5accae56c1f/mesh.obj
+[02:22:03.665998][info] Save obj mesh file
+[02:22:03.728908][info] Save mesh to obj done.
+[02:22:03.730903][info] Task done in (s): 7.910000

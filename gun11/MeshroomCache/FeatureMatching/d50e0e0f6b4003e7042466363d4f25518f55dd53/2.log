@@ -1,0 +1,88 @@
+[2024-09-10 13:43:54.138426] [0x00010720] [trace]   Embedded OCIO configuration file: 'D:\ly\stage3\Meshroom-2023.2.0-win64\Meshroom-2023.2.0\aliceVision/share/aliceVision/config.ocio' found.
+Program called with the following parameters:
+ * crossMatching = 0
+ * describerTypes = "sift,akaze"
+ * distanceRatio = 0.8
+ * exportDebugFiles = 0
+ * featuresFolders =  = [D:/ly/stage3/gun11/MeshroomCache/FeatureExtraction/15cf7ae33565bfeb64ce090cde9eb8eff0874479]
+ * geometricError = 0
+ * geometricEstimator =  Unknown Type "enum aliceVision::robustEstimation::ERobustEstimator"
+ * geometricFilterType = "fundamental_matrix"
+ * guidedMatching = 0
+ * imagePairsList =  = [D:/ly/stage3/gun11/MeshroomCache/ImageMatching/a7a165ff229a231735707eecbb5c3fe59e34fa53/imageMatches.txt]
+ * input = "D:/ly/stage3/gun11/MeshroomCache/CameraInit/01fff1e5f12a87fde77582525e2be2d22aa4c9ca/cameraInit.sfm"
+ * knownPosesGeometricErrorMax = 5
+ * matchFilePerImage = 0 (default)
+ * matchFromKnownCameraPoses = 0
+ * maxCoresAvailable =  Unknown Type "unsigned int" (default)
+ * maxIteration = 2048
+ * maxMatches = 0
+ * maxMemoryAvailable = 18446744073709551615 (default)
+ * minRequired2DMotion = -1
+ * output = "D:/ly/stage3/gun11/MeshroomCache/FeatureMatching/d50e0e0f6b4003e7042466363d4f25518f55dd53"
+ * photometricMatchingMethod = "ANN_L2"
+ * randomSeed = 5489 (default)
+ * rangeSize = 20
+ * rangeStart = 40
+ * savePutativeMatches = 0
+ * useGridSort = 1 (default)
+ * verboseLevel = "info"
+
+Hardware : 
+	Detected core count : 16
+	OpenMP will use 16 cores
+	Detected available memory : 5462 Mo
+
+[13:43:54.145418][info] Load pair list from file: D:/ly/stage3/gun11/MeshroomCache/ImageMatching/a7a165ff229a231735707eecbb5c3fe59e34fa53/imageMatches.txt
+[13:43:54.146419][info] loadPairs: image pair (2104031122, 2135187765) added.
+[13:43:54.146419][info] loadPairs: image pair (2104031122, 2137277251) added.
+[13:43:54.146419][info] loadPairs: image pair (2104031122, 2140708671) added.
+[13:43:54.146419][info] loadPairs: image pair (2135187765, 2137277251) added.
+[13:43:54.146419][info] loadPairs: image pair (2135187765, 2140708671) added.
+[13:43:54.146419][info] loadPairs: image pair (2137277251, 2140708671) added.
+[13:43:54.146419][info] Number of pairs: 6
+[13:43:54.146419][info] There are 44 views and 6 image pairs.
+[13:43:54.146419][info] Load features and descriptors
+Loading regions
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+[13:43:54.163465][info] Supported CUDA-Enabled GPU detected.
+******[13:43:54.191455][info] Putative matches (unknown poses): 6 image pairs.
+[13:43:54.191455][info] sift Regions Matching
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+[13:43:54.390418][info] akaze Regions Matching
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+[13:43:54.431417][info] 6 putative image pair matches
+[13:43:54.431417][info] 	- image pair (2104031122, 2135187765) contains 483 putative matches.
+[13:43:54.431417][info] 	- image pair (2104031122, 2137277251) contains 118 putative matches.
+[13:43:54.431417][info] 	- image pair (2104031122, 2140708671) contains 111 putative matches.
+[13:43:54.431417][info] 	- image pair (2135187765, 2137277251) contains 145 putative matches.
+[13:43:54.431417][info] 	- image pair (2135187765, 2140708671) contains 151 putative matches.
+[13:43:54.431417][info] 	- image pair (2137277251, 2140708671) contains 486 putative matches.
+[13:43:54.431417][info] Task (Regions Matching) done in (s): 0.239000
+[13:43:54.431417][info] Geometric filtering: using fundamental_matrix
+Robust Model Estimation
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+[13:43:54.460420][info] 5 geometric image pair matches:
+[13:43:54.460420][info] 	- image pair (2104031122, 2135187765) contains 421 geometric matches.
+[13:43:54.460420][info] 	- image pair (2104031122, 2137277251) contains 66 geometric matches.
+[13:43:54.460420][info] 	- image pair (2135187765, 2137277251) contains 65 geometric matches.
+[13:43:54.460420][info] 	- image pair (2135187765, 2140708671) contains 72 geometric matches.
+[13:43:54.460420][info] 	- image pair (2137277251, 2140708671) contains 417 geometric matches.
+[13:43:54.460420][info] Grid filtering
+[13:43:54.460420][info] After grid filtering:
+[13:43:54.460420][info] 	- image pair (2104031122, 2135187765) contains 421 geometric matches.
+[13:43:54.460420][info] 	- image pair (2104031122, 2137277251) contains 66 geometric matches.
+[13:43:54.460420][info] 	- image pair (2135187765, 2137277251) contains 65 geometric matches.
+[13:43:54.460420][info] 	- image pair (2135187765, 2140708671) contains 72 geometric matches.
+[13:43:54.460420][info] 	- image pair (2137277251, 2140708671) contains 417 geometric matches.
+[13:43:54.460420][info] Save geometric matches.
+[13:43:54.463417][info] Task done in (s): 0.031000
