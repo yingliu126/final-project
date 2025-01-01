@@ -1,0 +1,4641 @@
+{
+    "version": [
+        "1",
+        "2",
+        "4"
+    ],
+    "views": [
+        {
+            "viewId": "1437875024",
+            "poseId": "1437875024",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00038.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875025",
+            "poseId": "1437875025",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00080.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875026",
+            "poseId": "1437875026",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00090.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875027",
+            "poseId": "1437875027",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00099.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875028",
+            "poseId": "1437875028",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00108.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875029",
+            "poseId": "1437875029",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00119.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875030",
+            "poseId": "1437875030",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00134.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875031",
+            "poseId": "1437875031",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00155.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875032",
+            "poseId": "1437875032",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00167.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875033",
+            "poseId": "1437875033",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00174.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875034",
+            "poseId": "1437875034",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00180.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875035",
+            "poseId": "1437875035",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00187.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875036",
+            "poseId": "1437875036",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00197.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875037",
+            "poseId": "1437875037",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00208.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875038",
+            "poseId": "1437875038",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00224.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875039",
+            "poseId": "1437875039",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00248.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875040",
+            "poseId": "1437875040",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00268.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875041",
+            "poseId": "1437875041",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00282.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875042",
+            "poseId": "1437875042",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00311.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875043",
+            "poseId": "1437875043",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00347.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875044",
+            "poseId": "1437875044",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00377.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875045",
+            "poseId": "1437875045",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00398.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875046",
+            "poseId": "1437875046",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00416.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875047",
+            "poseId": "1437875047",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00431.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875048",
+            "poseId": "1437875048",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00448.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875049",
+            "poseId": "1437875049",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00462.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875050",
+            "poseId": "1437875050",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00483.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875051",
+            "poseId": "1437875051",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00502.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875052",
+            "poseId": "1437875052",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00524.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875053",
+            "poseId": "1437875053",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00550.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875054",
+            "poseId": "1437875054",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00575.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875055",
+            "poseId": "1437875055",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00598.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875056",
+            "poseId": "1437875056",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00612.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875057",
+            "poseId": "1437875057",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00626.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875058",
+            "poseId": "1437875058",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00641.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875059",
+            "poseId": "1437875059",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00651.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875060",
+            "poseId": "1437875060",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00658.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875061",
+            "poseId": "1437875061",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00668.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875062",
+            "poseId": "1437875062",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00676.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875063",
+            "poseId": "1437875063",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00685.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875064",
+            "poseId": "1437875064",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00694.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875065",
+            "poseId": "1437875065",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00706.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875066",
+            "poseId": "1437875066",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00718.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875067",
+            "poseId": "1437875067",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00728.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875068",
+            "poseId": "1437875068",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00741.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875069",
+            "poseId": "1437875069",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00757.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875070",
+            "poseId": "1437875070",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00787.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875071",
+            "poseId": "1437875071",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00812.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875072",
+            "poseId": "1437875072",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00829.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875073",
+            "poseId": "1437875073",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00846.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875074",
+            "poseId": "1437875074",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00862.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875075",
+            "poseId": "1437875075",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00879.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875076",
+            "poseId": "1437875076",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00901.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875077",
+            "poseId": "1437875077",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00922.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875078",
+            "poseId": "1437875078",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00941.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875079",
+            "poseId": "1437875079",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00963.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875080",
+            "poseId": "1437875080",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\00990.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875081",
+            "poseId": "1437875081",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01019.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875082",
+            "poseId": "1437875082",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01046.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875083",
+            "poseId": "1437875083",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01074.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875084",
+            "poseId": "1437875084",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01099.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875085",
+            "poseId": "1437875085",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01118.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875086",
+            "poseId": "1437875086",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01140.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875087",
+            "poseId": "1437875087",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01161.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875088",
+            "poseId": "1437875088",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01174.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875089",
+            "poseId": "1437875089",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01184.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875090",
+            "poseId": "1437875090",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01193.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875091",
+            "poseId": "1437875091",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01201.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875092",
+            "poseId": "1437875092",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01209.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875093",
+            "poseId": "1437875093",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01219.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875094",
+            "poseId": "1437875094",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01228.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875095",
+            "poseId": "1437875095",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01233.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875096",
+            "poseId": "1437875096",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01239.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875097",
+            "poseId": "1437875097",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01245.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875098",
+            "poseId": "1437875098",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01256.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875099",
+            "poseId": "1437875099",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01273.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875100",
+            "poseId": "1437875100",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01296.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875101",
+            "poseId": "1437875101",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01316.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875102",
+            "poseId": "1437875102",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01333.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875103",
+            "poseId": "1437875103",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01348.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875104",
+            "poseId": "1437875104",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01362.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875105",
+            "poseId": "1437875105",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01378.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875106",
+            "poseId": "1437875106",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01398.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875107",
+            "poseId": "1437875107",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01404.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875108",
+            "poseId": "1437875108",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01408.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875109",
+            "poseId": "1437875109",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01413.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875110",
+            "poseId": "1437875110",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01422.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875111",
+            "poseId": "1437875111",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01438.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875112",
+            "poseId": "1437875112",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01454.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875113",
+            "poseId": "1437875113",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01470.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875114",
+            "poseId": "1437875114",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01485.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875115",
+            "poseId": "1437875115",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01496.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875116",
+            "poseId": "1437875116",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01506.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875117",
+            "poseId": "1437875117",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01518.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875118",
+            "poseId": "1437875118",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01529.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875119",
+            "poseId": "1437875119",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01545.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875120",
+            "poseId": "1437875120",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01562.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875121",
+            "poseId": "1437875121",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01573.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875122",
+            "poseId": "1437875122",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01587.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875123",
+            "poseId": "1437875123",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01610.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875124",
+            "poseId": "1437875124",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01640.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875125",
+            "poseId": "1437875125",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01673.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875126",
+            "poseId": "1437875126",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01709.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875127",
+            "poseId": "1437875127",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01736.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875128",
+            "poseId": "1437875128",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01759.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875129",
+            "poseId": "1437875129",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01780.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875130",
+            "poseId": "1437875130",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01810.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875131",
+            "poseId": "1437875131",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01840.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875132",
+            "poseId": "1437875132",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01862.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875133",
+            "poseId": "1437875133",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01881.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875134",
+            "poseId": "1437875134",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01904.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875135",
+            "poseId": "1437875135",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01935.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875136",
+            "poseId": "1437875136",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01959.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875137",
+            "poseId": "1437875137",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\01981.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875138",
+            "poseId": "1437875138",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02010.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875139",
+            "poseId": "1437875139",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02043.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875140",
+            "poseId": "1437875140",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02066.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875141",
+            "poseId": "1437875141",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02079.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875142",
+            "poseId": "1437875142",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02090.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875143",
+            "poseId": "1437875143",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02104.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875144",
+            "poseId": "1437875144",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02117.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875145",
+            "poseId": "1437875145",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02129.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875146",
+            "poseId": "1437875146",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02141.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875147",
+            "poseId": "1437875147",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02158.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875148",
+            "poseId": "1437875148",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02175.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875149",
+            "poseId": "1437875149",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02187.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875150",
+            "poseId": "1437875150",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02199.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875151",
+            "poseId": "1437875151",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02216.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875152",
+            "poseId": "1437875152",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02241.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875153",
+            "poseId": "1437875153",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02269.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875154",
+            "poseId": "1437875154",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02292.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875155",
+            "poseId": "1437875155",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02313.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875156",
+            "poseId": "1437875156",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02329.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875157",
+            "poseId": "1437875157",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02354.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875158",
+            "poseId": "1437875158",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02387.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875159",
+            "poseId": "1437875159",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02424.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875160",
+            "poseId": "1437875160",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02449.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875161",
+            "poseId": "1437875161",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02471.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875162",
+            "poseId": "1437875162",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02497.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875163",
+            "poseId": "1437875163",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02518.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875164",
+            "poseId": "1437875164",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02534.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875165",
+            "poseId": "1437875165",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02544.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875166",
+            "poseId": "1437875166",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02553.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875167",
+            "poseId": "1437875167",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02574.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875168",
+            "poseId": "1437875168",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02591.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875169",
+            "poseId": "1437875169",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02605.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875170",
+            "poseId": "1437875170",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02620.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875171",
+            "poseId": "1437875171",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02642.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875172",
+            "poseId": "1437875172",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02664.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875173",
+            "poseId": "1437875173",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02685.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875174",
+            "poseId": "1437875174",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02699.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875175",
+            "poseId": "1437875175",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02712.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875176",
+            "poseId": "1437875176",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02725.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875177",
+            "poseId": "1437875177",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02738.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875178",
+            "poseId": "1437875178",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02756.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875179",
+            "poseId": "1437875179",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02773.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875180",
+            "poseId": "1437875180",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02788.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875181",
+            "poseId": "1437875181",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02806.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875182",
+            "poseId": "1437875182",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02824.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875183",
+            "poseId": "1437875183",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02839.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875184",
+            "poseId": "1437875184",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02852.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875185",
+            "poseId": "1437875185",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02867.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875186",
+            "poseId": "1437875186",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02892.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875187",
+            "poseId": "1437875187",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02916.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875188",
+            "poseId": "1437875188",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02939.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875189",
+            "poseId": "1437875189",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02960.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875190",
+            "poseId": "1437875190",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\02980.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875191",
+            "poseId": "1437875191",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03002.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875192",
+            "poseId": "1437875192",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03023.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875193",
+            "poseId": "1437875193",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03043.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875194",
+            "poseId": "1437875194",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03065.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875195",
+            "poseId": "1437875195",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03087.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875196",
+            "poseId": "1437875196",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03100.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875197",
+            "poseId": "1437875197",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03108.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875198",
+            "poseId": "1437875198",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03124.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875199",
+            "poseId": "1437875199",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03145.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875200",
+            "poseId": "1437875200",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03159.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875201",
+            "poseId": "1437875201",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03177.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875202",
+            "poseId": "1437875202",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03202.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875203",
+            "poseId": "1437875203",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03234.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875204",
+            "poseId": "1437875204",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03264.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875205",
+            "poseId": "1437875205",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03279.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875206",
+            "poseId": "1437875206",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03295.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875207",
+            "poseId": "1437875207",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03306.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875208",
+            "poseId": "1437875208",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03311.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875209",
+            "poseId": "1437875209",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03322.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875210",
+            "poseId": "1437875210",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03337.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875211",
+            "poseId": "1437875211",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03351.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875212",
+            "poseId": "1437875212",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03366.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875213",
+            "poseId": "1437875213",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03378.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875214",
+            "poseId": "1437875214",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03393.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875215",
+            "poseId": "1437875215",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03408.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875216",
+            "poseId": "1437875216",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03420.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875217",
+            "poseId": "1437875217",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03435.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875218",
+            "poseId": "1437875218",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03452.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875219",
+            "poseId": "1437875219",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03477.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875220",
+            "poseId": "1437875220",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03501.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875221",
+            "poseId": "1437875221",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03530.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875222",
+            "poseId": "1437875222",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03560.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875223",
+            "poseId": "1437875223",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03585.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875224",
+            "poseId": "1437875224",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03606.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875225",
+            "poseId": "1437875225",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03632.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875226",
+            "poseId": "1437875226",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03675.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875227",
+            "poseId": "1437875227",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03723.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875228",
+            "poseId": "1437875228",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03763.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875229",
+            "poseId": "1437875229",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03803.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875230",
+            "poseId": "1437875230",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03843.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875231",
+            "poseId": "1437875231",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03875.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875232",
+            "poseId": "1437875232",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03897.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875233",
+            "poseId": "1437875233",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03916.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875234",
+            "poseId": "1437875234",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03935.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875235",
+            "poseId": "1437875235",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03955.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875236",
+            "poseId": "1437875236",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03977.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875237",
+            "poseId": "1437875237",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\03998.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875238",
+            "poseId": "1437875238",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\04025.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875239",
+            "poseId": "1437875239",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\04057.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875240",
+            "poseId": "1437875240",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\04096.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875241",
+            "poseId": "1437875241",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\04124.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875242",
+            "poseId": "1437875242",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\04143.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875243",
+            "poseId": "1437875243",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\04154.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875244",
+            "poseId": "1437875244",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\04167.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875245",
+            "poseId": "1437875245",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\04189.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875246",
+            "poseId": "1437875246",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\04212.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875247",
+            "poseId": "1437875247",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\04224.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875248",
+            "poseId": "1437875248",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\04242.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875249",
+            "poseId": "1437875249",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\04265.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875250",
+            "poseId": "1437875250",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\04280.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875251",
+            "poseId": "1437875251",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\04300.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875252",
+            "poseId": "1437875252",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\04327.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        },
+        {
+            "viewId": "1437875253",
+            "poseId": "1437875253",
+            "frameId": "3",
+            "intrinsicId": "0",
+            "path": "C:\/Users\/liuying\/AppData\/Local\/Temp\/MeshroomCache\/KeyframeSelection\/4dbdb05ed4a976daaa1436ce769dd75053d26765\\04367.png",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "FramesPerSecond": "50\/1",
+                "compatible_brands": "mp42avc1",
+                "creation_time": "2018-01-09T16:05:14.000000Z",
+                "ffmpeg:codec_name": "H.264 \/ AVC \/ MPEG-4 AVC \/ MPEG-4 part 10",
+                "major_brand": "mp42",
+                "minor_version": "1",
+                "oiio:BitsPerSample": "8",
+                "oiio:Movie": "1",
+                "oiio:subimages": "4392"
+            }
+        }
+    ],
+    "intrinsics": [
+        {
+            "intrinsicId": "0",
+            "width": "1920",
+            "height": "1080",
+            "sensorWidth": "36",
+            "sensorHeight": "24",
+            "serialNumber": "D:\/ly\/stage3\/gun21",
+            "type": "radial3",
+            "initializationMode": "none",
+            "initialFocalLength": "-1",
+            "focalLength": "-0.99999999999999989",
+            "pixelRatio": "1",
+            "pixelRatioLocked": "true",
+            "principalPoint": [
+                "0",
+                "0"
+            ],
+            "distortionInitializationMode": "none",
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "undistortionOffset": [
+                "0",
+                "0"
+            ],
+            "undistortionParams": "",
+            "locked": "false"
+        }
+    ]
+}

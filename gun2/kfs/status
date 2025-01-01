@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "KeyframeSelection_1",
+    "nodeType": "KeyframeSelection",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_keyframeSelection  --inputPaths \"D:/ly/stage3/gun2/arv_MOSIN+NAGANT_1942_3.mp4\" --sensorDbPath \"D:\\ly\\stage3\\Meshroom-2023.2.0-win64\\Meshroom-2023.2.0\\aliceVision\\share\\aliceVision\\cameraSensors.db\" --useSmartSelection True --pxDisplacement 10.0 --minNbOutFrames 10 --maxNbOutFrames 2000 --rescaledWidthSharpness 720 --rescaledWidthFlow 720 --sharpnessWindowSize 200 --flowCellSize 90 --renameKeyframes False --outputExtension png --exportScores False --exportFlowVisualisation False --flowVisualisationOnly False --skipSharpnessComputation False --skipSelection False --verboseLevel info --outputFolder \"C:/Users/liuying/AppData/Local/Temp/MeshroomCache/KeyframeSelection/4dbdb05ed4a976daaa1436ce769dd75053d26765\" --outputSfMDataKeyframes \"C:/Users/liuying/AppData/Local/Temp/MeshroomCache/KeyframeSelection/4dbdb05ed4a976daaa1436ce769dd75053d26765/keyframes.sfm\" --outputSfMDataFrames \"C:/Users/liuying/AppData/Local/Temp/MeshroomCache/KeyframeSelection/4dbdb05ed4a976daaa1436ce769dd75053d26765/frames.sfm\"",
+    "env": null,
+    "startDateTime": "2024-11-13 00:25:07.541556",
+    "endDateTime": "2024-11-13 01:17:52.002241",
+    "elapsedTime": 3164.4596869945526,
+    "hostname": "DESKTOP-OHJFF0E",
+    "sessionUid": "0d1a5d18-a14d-11ef-9bd1-08d23ee4e0e8",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:52:44.459687"
+}
