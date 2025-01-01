@@ -1,0 +1,83 @@
+[2024-09-12 12:43:40.152114] [0x00013738] [trace]   Embedded OCIO configuration file: 'D:\ly\stage3\Meshroom-2023.2.0-win64\Meshroom-2023.2.0\aliceVision/share/aliceVision/config.ocio' found.
+Program called with the following parameters:
+ * contrastFiltering =  Unknown Type "enum aliceVision::feature::EFeatureConstrastFiltering"
+ * describerPreset =  Unknown Type "enum aliceVision::feature::EImageDescriberPreset"
+ * describerQuality =  Unknown Type "enum aliceVision::feature::EFeatureQuality"
+ * describerTypes = "sift,akaze"
+ * forceCpuExtraction = 1
+ * gridFiltering = 1
+ * input = "D:/ly/stage3/MeshroomCache/CameraInit/afc8dd93ded09e23ce55ae946c16c0c47049d765/cameraInit.sfm"
+ * masksFolder = "D:/ly/stage3/MeshroomCache/ImageMasking/44a70895667f5a0fc730d62b9a36092da6e6bb30"
+ * maxCoresAvailable =  Unknown Type "unsigned int" (default)
+ * maxMemoryAvailable = 18446744073709551615 (default)
+ * maxNbFeatures = 0 (default)
+ * maxThreads = 0
+ * output = "D:/ly/stage3/MeshroomCache/FeatureExtraction/5a2e8f76ba97c56bf0269f779c4e50fbb32d94c7"
+ * rangeSize = 40
+ * rangeStart = 0
+ * relativePeakThreshold = 0.02 (default)
+ * verboseLevel = "info"
+ * workingColorSpace =  Unknown Type "enum aliceVision::image::EImageColorSpace"
+
+Hardware : 
+	Detected core count : 16
+	OpenMP will use 16 cores
+	Detected available memory : 5317 Mo
+
+[12:43:40.156141][info] CUDA-Enabled GPU.
+Device information:
+	- id:                      0
+	- name:                    NVIDIA GeForce RTX 2060
+	- compute capability:      7.5
+	- clock frequency (kHz):   1350000
+	- total device memory:     6143 MB 
+	- device memory available: 5130 MB 
+	- per-block shared memory: 49152
+	- warp size:               32
+	- max threads per block:   1024
+	- max threads per SM(X):   1024
+	- max block sizes:         {1024,1024,64}
+	- max grid sizes:          {2147483647,65535,65535}
+	- max 2D array texture:    {131072,65536}
+	- max 3D array texture:    {16384,16384,16384}
+	- max 2D linear texture:   {131072,65000,2097120}
+	- max 2D layered texture:  {32768,32768,2048}
+	- number of SM(x)s:        30
+	- registers per SM(x):     65536
+	- registers per block:     65536
+	- concurrent kernels:      yes
+	- mapping host memory:     yes
+	- unified addressing:      yes
+	- texture alignment:       512 byte
+	- pitch alignment:         32 byte
+CUDA build version: 11.6
+0
+[12:43:41.560734][info] Supported CUDA-Enabled GPU detected.
+[12:43:41.561723][info] Job max memory consumption for one image: 2370 MB
+[12:43:41.561723][info] Memory information: 
+	- Total RAM:     15.8392 GB
+	- Free RAM:      5.11706 GB
+	- Available RAM: 5.11706 GB
+	- Total swap:    131072 GB
+	- Free swap:     131035 GB
+[12:43:41.561723][info] Max number of threads regarding memory usage: 1
+[12:43:41.561723][warning] More than half of the RAM is used by other applications. It would be more efficient to close them.
+[12:43:41.561723][warning]  => 11 GB are used by other applications for a total RAM capacity of 16 GB.
+[12:43:41.561723][info] # threads for extraction: 1
+[12:43:41.668734][info] Extracting sift features from view 'D:/ly/stage3/gun11/output2 png/output_0003.png' [cpu]
+[12:43:45.034728][info]       2910 sift features extracted from view 'D:/ly/stage3/gun11/output2 png/output_0003.png'
+[12:43:45.034728][info] Extracting akaze features from view 'D:/ly/stage3/gun11/output2 png/output_0003.png' [cpu]
+[12:43:45.826725][info]       883 akaze features extracted from view 'D:/ly/stage3/gun11/output2 png/output_0003.png'
+[12:43:45.970725][info] Extracting sift features from view 'D:/ly/stage3/gun11/output2 png/output_0002.png' [cpu]
+[12:43:49.345724][info]       3057 sift features extracted from view 'D:/ly/stage3/gun11/output2 png/output_0002.png'
+[12:43:49.345724][info] Extracting akaze features from view 'D:/ly/stage3/gun11/output2 png/output_0002.png' [cpu]
+[12:43:50.170723][info]       934 akaze features extracted from view 'D:/ly/stage3/gun11/output2 png/output_0002.png'
+[12:43:50.319726][info] Extracting sift features from view 'D:/ly/stage3/gun11/output2 png/output_0005.png' [cpu]
+[12:43:53.771949][info]       2864 sift features extracted from view 'D:/ly/stage3/gun11/output2 png/output_0005.png'
+[12:43:53.771949][info] Extracting akaze features from view 'D:/ly/stage3/gun11/output2 png/output_0005.png' [cpu]
+[12:43:54.536948][info]       747 akaze features extracted from view 'D:/ly/stage3/gun11/output2 png/output_0005.png'
+[12:43:54.670968][info] Extracting sift features from view 'D:/ly/stage3/gun11/output2 png/output_0004.png' [cpu]
+[12:43:58.061949][info]       2802 sift features extracted from view 'D:/ly/stage3/gun11/output2 png/output_0004.png'
+[12:43:58.061949][info] Extracting akaze features from view 'D:/ly/stage3/gun11/output2 png/output_0004.png' [cpu]
+[12:43:58.822957][info]       692 akaze features extracted from view 'D:/ly/stage3/gun11/output2 png/output_0004.png'
+[12:43:58.823949][info] Task done in (s): 17.263000

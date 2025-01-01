@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "StructureFromMotion_1",
+    "nodeType": "StructureFromMotion",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_incrementalSfM  --input \"D:/ly/stage3/MeshroomCache/CameraInit/afc8dd93ded09e23ce55ae946c16c0c47049d765/cameraInit.sfm\" --featuresFolders \"D:/ly/stage3/MeshroomCache/FeatureExtraction/5a2e8f76ba97c56bf0269f779c4e50fbb32d94c7\" --matchesFolders \"D:/ly/stage3/MeshroomCache/FeatureMatching/0d3977cf790edaaafebcc63904505410bb0786ec\" --describerTypes sift,akaze --localizerEstimator acransac --observationConstraint Scale --localizerEstimatorMaxIterations 4096 --localizerEstimatorError 0.0 --lockScenePreviouslyReconstructed False --useLocalBA True --localBAGraphDistance 1 --nbFirstUnstableCameras 30 --maxImagesPerGroup 30 --bundleAdjustmentMaxOutliers 50 --maxNumberOfMatches 0 --minNumberOfMatches 0 --minInputTrackLength 2 --minNumberOfObservationsForTriangulation 2 --minAngleForTriangulation 3.0 --minAngleForLandmark 2.0 --maxReprojectionError 4.0 --minAngleInitialPair 5.0 --maxAngleInitialPair 40.0 --useOnlyMatchesFromInputFolder False --useRigConstraint True --rigMinNbCamerasForCalibration 20 --lockAllIntrinsics False --minNbCamerasToRefinePrincipalPoint 3 --filterTrackForks False --computeStructureColor True --initialPairA \"\" --initialPairB \"\" --interFileExtension .abc --verboseLevel info --output \"D:/ly/stage3/MeshroomCache/StructureFromMotion/12b74f097b4e2ce4bfe767282080d6072add4825/sfm.abc\" --outputViewsAndPoses \"D:/ly/stage3/MeshroomCache/StructureFromMotion/12b74f097b4e2ce4bfe767282080d6072add4825/cameras.sfm\" --extraInfoFolder \"D:/ly/stage3/MeshroomCache/StructureFromMotion/12b74f097b4e2ce4bfe767282080d6072add4825\"",
+    "env": null,
+    "startDateTime": "2024-09-12 12:44:00.954148",
+    "endDateTime": "2024-09-12 12:44:02.319137",
+    "elapsedTime": 1.3649895191192627,
+    "hostname": "DESKTOP-OHJFF0E",
+    "sessionUid": "a425f238-70ef-11ef-aa5d-08d23ee4e0e8",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:00:01.364990"
+}

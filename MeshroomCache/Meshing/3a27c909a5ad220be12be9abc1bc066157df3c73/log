@@ -1,0 +1,62 @@
+[2024-09-12 12:44:07.671876] [0x0000b488] [trace]   Embedded OCIO configuration file: 'D:\ly\stage3\Meshroom-2023.2.0-win64\Meshroom-2023.2.0\aliceVision/share/aliceVision/config.ocio' found.
+Program called with the following parameters:
+ * addLandmarksToTheDensePointCloud = 0
+ * angleFactor = 15
+ * colorizeOutput = 0
+ * contributeMarginFactor = 2
+ * densifyNbBack = 0 (default)
+ * densifyNbFront = 0 (default)
+ * densifyScale = 1 (default)
+ * depthMapsFolder = "D:/ly/stage3/MeshroomCache/DepthMapFilter/cf6bb5506700d44f3ffa7c257be27cd0ce7857cb"
+ * estimateSpaceFromSfM = 1
+ * estimateSpaceMinObservationAngle = 10
+ * estimateSpaceMinObservations = 3
+ * exportDebugTetrahedralization = 0
+ * fullWeight = 1
+ * helperPointsGridSize = 10
+ * input = "D:/ly/stage3/MeshroomCache/StructureFromMotion/12b74f097b4e2ce4bfe767282080d6072add4825/sfm.abc"
+ * invertTetrahedronBasedOnNeighborsNbIterations = 10
+ * maskBorderSize = 1 (default)
+ * maskHelperPointsWeight = 0 (default)
+ * maxCoresAvailable =  Unknown Type "unsigned int" (default)
+ * maxInputPoints = 50000000
+ * maxMemoryAvailable = 18446744073709551615 (default)
+ * maxNbConnectedHelperPoints = 50
+ * maxPoints = 5000000
+ * maxPointsPerVoxel = 1000000
+ * minAngleThreshold = 1
+ * minSolidAngleRatio = 0.2
+ * minStep = 2
+ * minVis = 2 (default)
+ * nPixelSizeBehind = 4
+ * nbSolidAngleFilteringIterations = 2
+ * output = "D:/ly/stage3/MeshroomCache/Meshing/3a27c909a5ad220be12be9abc1bc066157df3c73/densePointCloud.abc"
+ * outputMesh = "D:/ly/stage3/MeshroomCache/Meshing/3a27c909a5ad220be12be9abc1bc066157df3c73/mesh.obj"
+ * partitioning =  Unknown Type "enum EPartitioningMode"
+ * pixSizeMarginFinalCoef = 4
+ * pixSizeMarginInitCoef = 2
+ * refineFuse = 1
+ * repartition =  Unknown Type "enum ERepartitionMode"
+ * saveRawDensePointCloud = 0
+ * seed =  Unknown Type "unsigned int"
+ * simFactor = 15
+ * simGaussianSize = 10
+ * simGaussianSizeInit = 10
+ * universePercentile = 0.999 (default)
+ * verboseLevel = "info"
+ * voteFilteringForWeaklySupportedSurfaces = 1
+ * voteMarginFactor = 4
+
+Hardware : 
+	Detected core count : 16
+	OpenMP will use 16 cores
+	Detected available memory : 5330 Mo
+
+[12:44:07.683879][info] Found 1 image dimension(s): 
+[12:44:07.683879][info] 	- [1920x1080]
+[12:44:07.695922][info] Overall maximum dimension: [960x540]
+[12:44:07.696913][warning] repartitionMode: 1
+[12:44:07.696913][warning] partitioningMode: 1
+[12:44:07.696913][info] Meshing mode: multi-resolution, partitioning: single block.
+[12:44:07.696913][info] Estimate space from SfM.
+[12:44:07.698870][fatal] Failed to estimate space from SfM: The space bounding box is too small.
