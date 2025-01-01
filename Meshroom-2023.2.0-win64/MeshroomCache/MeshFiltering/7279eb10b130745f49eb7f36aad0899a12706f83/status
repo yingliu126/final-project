@@ -1,0 +1,17 @@
+{
+    "status": "NONE",
+    "execMode": "NONE",
+    "nodeName": "MeshFiltering_1",
+    "nodeType": "MeshFiltering",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": null,
+    "env": null,
+    "startDateTime": "",
+    "endDateTime": "",
+    "elapsedTime": 0,
+    "hostname": "",
+    "sessionUid": "29b95ae2-903c-11ee-bc0c-08d23ee4e0e8",
+    "elapsedTimeStr": "0:00:00"
+}

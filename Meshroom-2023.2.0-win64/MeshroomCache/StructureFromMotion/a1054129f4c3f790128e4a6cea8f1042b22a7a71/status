@@ -1,0 +1,18 @@
+{
+    "status": "ERROR",
+    "execMode": "LOCAL",
+    "nodeName": "StructureFromMotion_1",
+    "nodeType": "StructureFromMotion",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_incrementalSfM  --input \"D:/ly/3meannee/app/Meshroom-2023.2.0-win64/MeshroomCache/CameraInit/ee94d884ff154cbf06dde8bf2d38b5ec0f45f2cc/cameraInit.sfm\" --featuresFolders \"D:/ly/3meannee/app/Meshroom-2023.2.0-win64/MeshroomCache/FeatureExtraction/5fd93f50359b5f3c45d188d686da94a360789f30\" --matchesFolders \"D:/ly/3meannee/app/Meshroom-2023.2.0-win64/MeshroomCache/FeatureMatching/c33b354c0fab98013375ec9cd6bd77552bfb5107\" --describerTypes dspsift --localizerEstimator acransac --observationConstraint Scale --localizerEstimatorMaxIterations 4096 --localizerEstimatorError 0.0 --lockScenePreviouslyReconstructed False --useLocalBA True --localBAGraphDistance 1 --nbFirstUnstableCameras 30 --maxImagesPerGroup 30 --bundleAdjustmentMaxOutliers 50 --maxNumberOfMatches 0 --minNumberOfMatches 0 --minInputTrackLength 2 --minNumberOfObservationsForTriangulation 2 --minAngleForTriangulation 3.0 --minAngleForLandmark 2.0 --maxReprojectionError 4.0 --minAngleInitialPair 5.0 --maxAngleInitialPair 40.0 --useOnlyMatchesFromInputFolder False --useRigConstraint True --rigMinNbCamerasForCalibration 20 --lockAllIntrinsics False --minNbCamerasToRefinePrincipalPoint 3 --filterTrackForks False --computeStructureColor True --initialPairA \"\" --initialPairB \"\" --interFileExtension .abc --verboseLevel info --output \"D:/ly/3meannee/app/Meshroom-2023.2.0-win64/MeshroomCache/StructureFromMotion/a1054129f4c3f790128e4a6cea8f1042b22a7a71/sfm.abc\" --outputViewsAndPoses \"D:/ly/3meannee/app/Meshroom-2023.2.0-win64/MeshroomCache/StructureFromMotion/a1054129f4c3f790128e4a6cea8f1042b22a7a71/cameras.sfm\" --extraInfoFolder \"D:/ly/3meannee/app/Meshroom-2023.2.0-win64/MeshroomCache/StructureFromMotion/a1054129f4c3f790128e4a6cea8f1042b22a7a71\"",
+    "env": null,
+    "startDateTime": "2023-12-01 13:22:12.381552",
+    "endDateTime": "",
+    "elapsedTime": 0,
+    "hostname": "DESKTOP-OHJFF0E",
+    "sessionUid": "29b95ae2-903c-11ee-bc0c-08d23ee4e0e8",
+    "returnCode": 1,
+    "elapsedTimeStr": "0:00:00"
+}

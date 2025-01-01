@@ -1,0 +1,93 @@
+[2023-12-01 13:22:12.441456] [0x00008d84] [trace]   Embedded OCIO configuration file: 'D:\ly\3meannee\app\Meshroom-2023.2.0-win64\Meshroom-2023.2.0\aliceVision/share/aliceVision/config.ocio' found.
+Program called with the following parameters:
+ * bundleAdjustmentMaxOutliers = 50
+ * computeStructureColor = 1
+ * describerTypes = "dspsift"
+ * extraInfoFolder = "D:/ly/3meannee/app/Meshroom-2023.2.0-win64/MeshroomCache/StructureFromMotion/a1054129f4c3f790128e4a6cea8f1042b22a7a71"
+ * featuresFolders =  = [D:/ly/3meannee/app/Meshroom-2023.2.0-win64/MeshroomCache/FeatureExtraction/5fd93f50359b5f3c45d188d686da94a360789f30]
+ * filterTrackForks = 0
+ * initialPairA = ""
+ * initialPairB = ""
+ * input = "D:/ly/3meannee/app/Meshroom-2023.2.0-win64/MeshroomCache/CameraInit/ee94d884ff154cbf06dde8bf2d38b5ec0f45f2cc/cameraInit.sfm"
+ * interFileExtension = ".abc"
+ * localBAGraphDistance = 1
+ * localizerEstimator =  Unknown Type "enum aliceVision::robustEstimation::ERobustEstimator"
+ * localizerEstimatorError = 0
+ * localizerEstimatorMaxIterations = 4096
+ * lockAllIntrinsics = 0
+ * lockScenePreviouslyReconstructed = 0
+ * matchesFolders =  = [D:/ly/3meannee/app/Meshroom-2023.2.0-win64/MeshroomCache/FeatureMatching/c33b354c0fab98013375ec9cd6bd77552bfb5107]
+ * maxAngleInitialPair = 40
+ * maxCoresAvailable =  Unknown Type "unsigned int" (default)
+ * maxImagesPerGroup = 30
+ * maxMemoryAvailable = 18446744073709551615 (default)
+ * maxNumberOfMatches = 0
+ * maxReprojectionError = 4
+ * minAngleForLandmark = 2
+ * minAngleForTriangulation = 3
+ * minAngleInitialPair = 5
+ * minInputTrackLength = 2
+ * minNbCamerasToRefinePrincipalPoint = 3
+ * minNumberOfMatches = 0
+ * minNumberOfObservationsForTriangulation = 2
+ * nbFirstUnstableCameras = 30
+ * observationConstraint =  Unknown Type "enum aliceVision::sfm::EFeatureConstraint"
+ * output = "D:/ly/3meannee/app/Meshroom-2023.2.0-win64/MeshroomCache/StructureFromMotion/a1054129f4c3f790128e4a6cea8f1042b22a7a71/sfm.abc"
+ * outputViewsAndPoses = "D:/ly/3meannee/app/Meshroom-2023.2.0-win64/MeshroomCache/StructureFromMotion/a1054129f4c3f790128e4a6cea8f1042b22a7a71/cameras.sfm"
+ * randomSeed = 5489 (default)
+ * rigMinNbCamerasForCalibration = 20
+ * useLocalBA = 1
+ * useOnlyMatchesFromInputFolder = 0
+ * useRigConstraint = 1
+ * verboseLevel = "info"
+
+Hardware : 
+	Detected core count : 16
+	OpenMP will use 16 cores
+	Detected available memory : 8723 Mo
+
+Loading features
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+[13:22:13.271835][info] Fuse matches into tracks: 
+	- # tracks: 134
+	- # images in tracks: 11
+[13:22:13.271835][info] TrackLength, Occurrence
+[13:22:13.273839][info] 	2	134
+Automatic selection of an initial pair:
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+[13:22:13.300358][info] Initial pair is:
+	- [A] view id: 51328283, filepath: D:/ly/3meannee/app/2023_APP_Donnees/2023_APP_Donnees/lefaucheux_4mm/fond_vert_1/P1000985.JPG
+	- [B] view id: 2057653259, filepath: D:/ly/3meannee/app/2023_APP_Donnees/2023_APP_Donnees/lefaucheux_4mm/fond_vert_1/P1000986.JPG
+[13:22:13.300358][info] 134 matches in the image pair for the initial pose estimation.
+[13:22:13.374367][info] Bundle adjustment start.
+[13:22:13.376365][info] Start bundle adjustment iteration: 0
+[13:22:13.389878][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.0041276 s
+	- poses:
+	    - # refined:  2
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  0
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  0
+	    - # constant: 1
+	    - # ignored:  0
+	- # residual blocks: 0
+	- # successful iterations: 18446744073709551615
+	- # unsuccessful iterations: 18446744073709551615
+	- initial RMSE: -nan(ind)
+	- final   RMSE: -nan(ind)
+[13:22:13.390886][info] Remove outliers: 
+	- # outliers residual error: 0
+	- # outliers angular error: 0
+[13:22:13.391878][info] Bundle adjustment iteration: 0 took 15 msec.
+[13:22:13.391878][info] Bundle adjustment with 1 iterations took 17 msec.
+[13:22:13.393876][fatal] Initialization failed after trying all possible initial image pairs.

@@ -1,0 +1,26 @@
+[2023-12-01 12:38:33.961172] [0x00007d54] [trace]   Embedded OCIO configuration file: 'D:\ly\3meannee\app\Meshroom-2023.2.0-win64\Meshroom-2023.2.0\aliceVision/share/aliceVision/config.ocio' found.
+Program called with the following parameters:
+ * featuresFolders =  = [D:/ly/3meannee/app/Meshroom-2023.2.0-win64/MeshroomCache/FeatureExtraction/39d1df4fe0a0cad06691e70ac33e85a2fa949a23]
+ * input = "D:/ly/3meannee/app/Meshroom-2023.2.0-win64/MeshroomCache/CameraInit/86e94ed22fe149329b8666ac154184b82d58e840/cameraInit.sfm"
+ * matchingMode = "a/a" (default)
+ * maxCoresAvailable =  Unknown Type "unsigned int" (default)
+ * maxDescriptors = 500
+ * maxMemoryAvailable = 18446744073709551615 (default)
+ * method =  Unknown Type "enum aliceVision::imageMatching::EImageMatchingMethod"
+ * minNbImages = 200
+ * nbMatches = 40
+ * nbNeighbors = 5
+ * output = "D:/ly/3meannee/app/Meshroom-2023.2.0-win64/MeshroomCache/ImageMatching/01d157920b5f385a9041a765eefb18727852877e/imageMatches.txt"
+ * outputCombinedSfM = "" (default)
+ * tree = "D:\ly\3meannee\app\Meshroom-2023.2.0-win64\Meshroom-2023.2.0\aliceVision\share\aliceVision\vlfeat_K80L3.SIFT.tree"
+ * verboseLevel = "info"
+ * weights = ""
+
+Hardware : 
+	Detected core count : 16
+	OpenMP will use 16 cores
+	Detected available memory : 7351 Mo
+
+[12:38:33.971320][info] Use EXHAUSTIVE method.
+[12:38:33.972318][info] Number of selected image pairs: 36
+[12:38:33.972318][info] pairList exported in: D:/ly/3meannee/app/Meshroom-2023.2.0-win64/MeshroomCache/ImageMatching/01d157920b5f385a9041a765eefb18727852877e/imageMatches.txt
