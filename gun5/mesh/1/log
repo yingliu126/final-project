@@ -1,0 +1,166 @@
+[2024-09-09 15:49:24.875662] [0x0000ed84] [trace]   Embedded OCIO configuration file: 'D:\ly\stage3\Meshroom-2023.2.0-win64\Meshroom-2023.2.0\aliceVision/share/aliceVision/config.ocio' found.
+Program called with the following parameters:
+ * angleHardThreshold = 90
+ * bestScoreThreshold = 0.1
+ * bumpType =  Unknown Type "enum aliceVision::mesh::EBumpMappingType" (default)
+ * colorMappingFileType =  Unknown Type "enum aliceVision::image::EImageFileType"
+ * correctEV = 0
+ * displacementMappingFileType =  Unknown Type "enum aliceVision::image::EImageFileType" (default)
+ * downscale =  Unknown Type "unsigned int"
+ * fillHoles = 0
+ * flipNormals = 0
+ * forceVisibleByAllVertices = 0
+ * heightFileType =  Unknown Type "enum aliceVision::image::EImageFileType" (default)
+ * imagesFolder = "D:/ly/stage3/gun5/MeshroomCache/PrepareDenseScene/081963cf6165cf52fb787385ec2dc8b64a8c53b1"
+ * input = "D:/ly/stage3/gun5/MeshroomCache/Meshing/9d808317c73d78e62376dddc77ce9b46a60816f2/densePointCloud.abc"
+ * inputMesh = "D:/ly/stage3/gun5/MeshroomCache/MeshFiltering/f66134d6ac51a444b274271b7c20dbb1a0123466/mesh.obj"
+ * inputRefMesh = ""
+ * maxCoresAvailable =  Unknown Type "unsigned int" (default)
+ * maxMemoryAvailable = 18446744073709551615 (default)
+ * multiBandDownscale =  Unknown Type "unsigned int"
+ * multiBandNbContrib =  Unknown Type "class std::vector<int,class std::allocator<int> >"
+ * normalFileType =  Unknown Type "enum aliceVision::image::EImageFileType" (default)
+ * output = "D:/ly/stage3/gun5/MeshroomCache/Texturing/e20dd6160f32490bf2326986be10aae525ca5a0d"
+ * outputColorSpace =  Unknown Type "enum aliceVision::image::EImageColorSpace"
+ * outputMeshFileType =  Unknown Type "enum aliceVision::mesh::EFileType"
+ * padding =  Unknown Type "unsigned int"
+ * subdivisionTargetRatio = 0.8
+ * textureSide =  Unknown Type "unsigned int"
+ * unwrapMethod = "Basic"
+ * useScore = 1
+ * useUDIM = 1
+ * verboseLevel = "info"
+ * visibilityRemappingMethod = "PullPush"
+ * workingColorSpace =  Unknown Type "enum aliceVision::image::EImageColorSpace"
+
+Hardware : 
+	Detected core count : 16
+	OpenMP will use 16 cores
+	Detected available memory : 6165 Mo
+
+[15:49:24.880659][info] Load dense point cloud.
+[15:49:24.883661][warning] Alembic LOAD: NO OBSERVATIONS_WITH_FEATURES: , mvg_visibilityFeatId: 0, mvg_visibilityFeatPos: 0, OBSERVATIONS_WITH_FEATURES flag: false
+[15:49:24.903669][info] Found 1 image dimension(s): 
+[15:49:24.903669][info] 	- [1920x1080]
+[15:49:24.928669][info] Overall maximum dimension: [1920x1080]
+[15:49:24.928669][info] Load input mesh.
+[15:49:24.957670][info] Convert dense point cloud into ref mesh
+[15:49:24.960662][info] remapMeshVisibility based on triangles start.
+[15:49:24.971661][info] remapMeshVisibility done.
+[15:49:24.971661][info] Input mesh has no UV coordinates, start unwrapping (Basic)
+[15:49:24.971661][info] Generating UVs (textureSide: 8192; padding: 5).
+[15:49:24.971661][info] Creating texture charts.
+[15:49:24.988661][info] Packing texture charts (7836 charts).
+[15:49:25.014663][info] Finalize packed charts (119 charts).
+[15:49:25.014663][info] Creating texture atlases.
+[15:49:25.014663][info] 	- texture atlas 1
+[15:49:25.015663][info] Filled with 119 charts.
+[15:49:25.019663][info] Unwrapping done.
+[15:49:25.019663][info] Save D:/ly/stage3/gun5/MeshroomCache/Texturing/e20dd6160f32490bf2326986be10aae525ca5a0d\texturedMesh.obj mesh file
+[15:49:25.106661][info] Save mesh to obj done.
+[15:49:25.107663][info] Subdivide mesh.
+[15:49:25.107663][info] nb pts init: 4024
+[15:49:25.107663][info] nb tris init: 7836
+[15:49:25.107663][info] nb points in refMesh: 4020
+[15:49:25.107663][info] targetNbPts: 3216
+[15:49:25.107663][info] No subdivision needed.
+[15:49:25.108662][info] Number of triangle subdivisions: 0
+[15:49:25.108662][info] updateAtlases
+[15:49:25.109663][info] remapMeshVisibility based on triangles start.
+[15:49:25.121662][info] remapMeshVisibility done.
+[15:49:25.121662][info] Generate textures.
+[15:49:25.121662][info] Texturing: Use multiband blending with the following contributions per band:
+[15:49:25.121662][info]   - 1
+[15:49:25.121662][info]   - 5
+[15:49:25.121662][info]   - 10
+[15:49:25.121662][info] Texturing in srgb colorspace.
+[15:49:25.121662][info] Images loaded from cache with: no exposure correction
+[15:49:25.121662][info] nbAtlas: 1
+[15:49:25.121662][info] availableRam: 6160
+[15:49:25.121662][info] availableMem: 5976
+[15:49:25.121662][info] memoryPerAtlas: 3164
+[15:49:25.121662][info] nbAtlasMax (after rounding): 1
+[15:49:25.121662][info] Total amount of available RAM: 6160 MB.
+[15:49:25.121662][info] Total amount of memory remaining for the computation: 5976 MB.
+[15:49:25.121662][info] Total amount of an image in memory: 23 MB.
+[15:49:25.121662][info] Total amount of an atlas pyramid in memory: 3072 MB.
+[15:49:25.121662][info] Processing 1 atlases by chunks of 1
+[15:49:25.121662][info] Generating texture for atlases 1 to 1
+[15:49:25.121662][info] Generating texture for atlas 1/1 (7836 triangles).
+[15:49:25.240662][info] Reading pixel color.
+[15:49:26.515664][info] - camera 264528060 (1/14) with contributions to 1 texture files:
+[15:49:26.707672][info]   - Texture file: 1
+[15:49:26.707672][info]       - band 1: 234 triangles.
+[15:49:26.708664][info]       - band 2: 1437 triangles.
+[15:49:26.710663][info]       - band 3: 5182 triangles.
+[15:49:26.719661][info] - camera 573647403 (2/14) with contributions to 1 texture files:
+[15:49:26.921664][info]   - Texture file: 1
+[15:49:26.921664][info]       - band 1: 929 triangles.
+[15:49:26.922663][info]       - band 2: 2041 triangles.
+[15:49:26.925664][info]       - band 3: 4062 triangles.
+[15:49:26.933665][info] - camera 591279085 (3/14) with contributions to 1 texture files:
+[15:49:27.120662][info]   - Texture file: 1
+[15:49:27.120662][info]       - band 1: 1057 triangles.
+[15:49:27.122663][info]       - band 2: 2738 triangles.
+[15:49:27.126662][info]       - band 3: 3455 triangles.
+[15:49:27.133662][info] - camera 663546120 (4/14) with contributions to 1 texture files:
+[15:49:27.316668][info]   - Texture file: 1
+[15:49:27.316668][info]       - band 1: 309 triangles.
+[15:49:27.317664][info]       - band 2: 3811 triangles.
+[15:49:27.324662][info]       - band 3: 3102 triangles.
+[15:49:27.330661][info] - camera 776954796 (5/14) with contributions to 1 texture files:
+[15:49:27.517663][info]   - Texture file: 1
+[15:49:27.517663][info]       - band 1: 606 triangles.
+[15:49:27.518663][info]       - band 2: 5148 triangles.
+[15:49:27.527661][info]       - band 3: 1749 triangles.
+[15:49:27.531661][info] - camera 779143871 (6/14) with contributions to 1 texture files:
+[15:49:27.718671][info]   - Texture file: 1
+[15:49:27.718671][info]       - band 1: 146 triangles.
+[15:49:27.718671][info]       - band 2: 5191 triangles.
+[15:49:27.726662][info]       - band 3: 2156 triangles.
+[15:49:27.731662][info] - camera 799903554 (7/14) with contributions to 1 texture files:
+[15:49:27.919661][info]   - Texture file: 1
+[15:49:27.919661][info]       - band 1: 39 triangles.
+[15:49:27.919661][info]       - band 2: 4168 triangles.
+[15:49:27.925665][info]       - band 3: 3257 triangles.
+[15:49:27.932663][info] - camera 1026960245 (8/14) with contributions to 1 texture files:
+[15:49:28.119662][info]   - Texture file: 1
+[15:49:28.119662][info]       - band 1: 1083 triangles.
+[15:49:28.122661][info]       - band 2: 1656 triangles.
+[15:49:28.124664][info]       - band 3: 4236 triangles.
+[15:49:28.132663][info] - camera 1363541199 (9/14) with contributions to 1 texture files:
+[15:49:28.316663][info]   - Texture file: 1
+[15:49:28.316663][info]       - band 1: 66 triangles.
+[15:49:28.316663][info]       - band 2: 2554 triangles.
+[15:49:28.320660][info]       - band 3: 4754 triangles.
+[15:49:28.329661][info] - camera 1364155384 (10/14) with contributions to 1 texture files:
+[15:49:28.516670][info]   - Texture file: 1
+[15:49:28.517680][info]       - band 1: 49 triangles.
+[15:49:28.517680][info]       - band 2: 2083 triangles.
+[15:49:28.520661][info]       - band 3: 5251 triangles.
+[15:49:28.530661][info] - camera 1392382388 (11/14) with contributions to 1 texture files:
+[15:49:28.721663][info]   - Texture file: 1
+[15:49:28.721663][info]       - band 1: 372 triangles.
+[15:49:28.722664][info]       - band 2: 2966 triangles.
+[15:49:28.726669][info]       - band 3: 3984 triangles.
+[15:49:28.734665][info] - camera 1498939289 (12/14) with contributions to 1 texture files:
+[15:49:28.924673][info]   - Texture file: 1
+[15:49:28.924673][info]       - band 1: 1737 triangles.
+[15:49:28.927660][info]       - band 2: 2412 triangles.
+[15:49:28.931661][info]       - band 3: 2879 triangles.
+[15:49:28.936661][info] - camera 1746682276 (13/14) with contributions to 1 texture files:
+[15:49:29.120663][info]   - Texture file: 1
+[15:49:29.120663][info]       - band 1: 1004 triangles.
+[15:49:29.123664][info]       - band 2: 1207 triangles.
+[15:49:29.125670][info]       - band 3: 4445 triangles.
+[15:49:29.134669][info] - camera 2075225096 (14/14) with contributions to 1 texture files:
+[15:49:29.321663][info]   - Texture file: 1
+[15:49:29.321663][info]       - band 1: 129 triangles.
+[15:49:29.321663][info]       - band 2: 1024 triangles.
+[15:49:29.322664][info]       - band 3: 6066 triangles.
+[15:49:29.332661][info] Create texture 1
+[15:49:29.332661][info]   - Computing final (average) color.
+[15:49:29.876672][info]   - Edge padding (15 pixels).
+[15:49:30.267674][info]   - Downscaling texture (2x).
+[15:49:34.222670][info]   - Writing texture file: D:/ly/stage3/gun5/MeshroomCache/Texturing/e20dd6160f32490bf2326986be10aae525ca5a0d\texture_1001.exr
+[15:49:34.713671][info] Task done in (s): 9.835000
